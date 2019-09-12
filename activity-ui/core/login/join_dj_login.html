@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html> 
+<body>
+<div class="login_cyou_dialog login_cyou_dialog_dj" id="loginPop">
+	<div class="login_dialog_title">
+		<h2>登录畅游通行证</h2> 
+        <h3>登录刀剑账号</h3>
+		<a class="close" id="closeLogin">&#10005</a>
+	</div>
+	<div class="login_dialog_box" >
+		<ul class="login_dialog_login">
+			<li>
+				<label for="account" id="test">账号：</label>
+				<input name="account" name="account" id="accountEmails" tabindex="1" type="text"  maxlength="60" />
+				<span><a href="http://bo.account.changyou.com/reg/contract.jsp?game=DJ" target="_blank">注册账号</a></span>
+			</li>
+			<li>
+				<label for="psw">密码：</label>
+				<input name="psw" maxlength="16" type="password" id="password" tabindex="2" onpaste="return false" oncontextmenu="return false" oncopy="return false" oncut="return false"  onkeydown="if(event.keyCode==13){$('#checkcode').focus();}" />
+				<span><a href="http://bo.account.changyou.com/pwd/changepwd.jsp" target="_blank">忘记密码</a></span>
+			</li>
+			<li class="annexcode">
+				<label for="annexcode">验证码：</label>
+				<input name="annexcode" type="text" id="checkcode" tabindex="3" maxlength="4"  onkeydown="if(event.keyCode==13){checkLogin(1);}" />
+				<span><img  id="checkcodeImg" height="26" onclick="javascript:reloadCheckCode(1);" src="/wx/wxmsg/activitys/image/generate" alt="验证码" title="验证码" /></span>
+				<a href="javascript:reloadCheckCode(1);">换一个</a>
+			</li>
+			<li class="error" id="loginError"></li>
+			<li class="button">
+				<button type="submit" id="subLogin"><strong>登录</strong></button>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<script type="text/javascript" src="http://www.changyou.com/cyouFile/emailAutoComplete/emailAutoComplete.js"></script>   
+<script type="text/javascript" src="/core/login/popout.js"></script>
+<script type="text/javascript" src="/core/login/login.js"></script>
+</body>
+</html>

@@ -1,0 +1,228 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=640,minimum-scale=0,maximum-scale=5,user-scalable=no" name="viewport" />
+		<meta content="yes" name="apple-mobile-web-app-capable" />
+		<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+		<meta content="telephone=no" name="format-detection" />
+		<title>家园狂欢趴，豪礼嗨翻天—《天龙3D》官方网站 </title>
+		<meta name="Keywords" content="天龙八部，天龙八部3D，天龙八部手游，3D武侠手游，金庸武侠" />
+		<meta name="Description" content="《天龙八部3D》是由畅游自主研发，《天龙八部》原版人马打造，金庸正版授权的一款3D武侠MMORPG手游。" />
+		<meta name="author" content="Design:LiWei; Web Layout:WangHongWei;" />
+		<link rel="stylesheet" type="text/css" href="/act/all/css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="/act/all/css/swiper.min.css" />
+		<link rel="stylesheet" type="text/css" href="/act/cyapp/css/index.css" />
+		<script>
+			if (navigator.appVersion.indexOf('Android') != -1) {
+				document.addEventListener("DOMContentLoaded", function(e) {
+					document.getElementsByTagName('body')[0].style.zoom = e.target.activeElement.clientWidth / 640;
+				});
+			};
+		</script>
+		<script src="/js/jquery/jquery.min.js"></script>
+		<script src="/js/join-activity-1.0.0.js"></script>
+	</head>
+	<body class="graphic">
+		<div class="graphic_tabs">
+			<a href="javascript:void(0);" title="手游" class="active" type="1" onclick="getAll(1);">手游</a>
+			<a href="javascript:void(0);" title="端游" type="2" onclick="getAll(2);">端游</a>
+			<a href="javascript:void(0);" title="单机" type="3" onclick="getAll(3);">单机</a>
+		</div>
+		<ul class="gamelist" style="display: block;">
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_tl3d.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="已添加" class="add_btn added">已添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_xtl.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="+添加" class="add_btn unadd">+添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_djdsz.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="+添加" class="add_btn unadd">+添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_tl3d.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="已添加" class="add_btn added">已添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_tl3d.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="已添加" class="add_btn added">已添加</a>
+			</li>
+		</ul>
+		<ul class="gamelist">
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_tl3d.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3DXXXXX2
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="已添加" class="add_btn added">已添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_xtl.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="+添加" class="add_btn unadd">+添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_djdsz.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="+添加" class="add_btn unadd">+添加</a>
+			</li>
+		</ul>
+		<ul class="gamelist">
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_tl3d.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3DXXXX3
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="已添加" class="add_btn added">已添加</a>
+			</li>
+			<li class="clearfix">
+				<img src="/act/cyapp/images/ico_tl3d.jpg"/>
+				<dl class="game_intro">
+					<dt>
+						天龙3D
+					</dt>
+					<dd>
+						武侠
+					</dd>
+					<dd>
+						MMORPG
+					</dd>
+					<p>
+						XXX人正在玩
+					</p>
+				</dl>
+				<a href="" title="已添加" class="add_btn added">已添加</a>
+			</li>
+		</ul>
+		<script src="/act/all/js/swiper.min.js"></script>
+		<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+		<script src="http://www.changyou.com/cyouFile/shareToWx/js/share.actv2.wx.js"></script>
+		<script src="js/global.js"></script>
+		<script src="../../../js/common.util.js"></script>
+		<script src="js/cyapp.js"></script>
+		<script src="js/manageApp.js"></script>
+		<!-- <script src="http://www.cy.com/js/cy_public_dark.js"></script> -->
+		<!--#include virtual="/act/all/dma/dma_activity.html" -->
+	</body>
+</html>

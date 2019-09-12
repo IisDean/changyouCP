@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* Author: Zs0u */
+#popout-QR{ width:226px; height:360px; position:fixed; right:0px; top:50%; margin-top:-163px; z-index:10; background:transparent url(http://i0.cy.com/tl3/cover/20121213/qr.jpg) left top no-repeat; display:none;}
+*html #popout-QR { position:absolute; margin-top:expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');}
+#popout-QR h2{ width:226px; height:40px; display:block; text-indent:-9999em; background:none;}
+#popout-QR .qr-iframe{ text-align:center;padding-right:7px; margin-top:8px;}
+#popout-QR .qr-get{   width:97px; height:35px; margin:55px 80px 21px auto; display:none; text-indent:-9999em;}
+#popout-QR .qr-download{ width:208px; height:50px; margin:5px 9px 10px auto; display:block; text-indent:-9999em;}
+#popout-QR .qr-close{ width:30px; height:30px; display:block; position:absolute; right:0; top:0; z-index:100; text-indent:-9999em; cursor:pointer;}
+
+#popout-QR-default{ width:61px; height:231px; position:fixed; right:0; top:50%; margin-top:-150px; z-index:11; text-indent:-9999em; cursor:pointer; background:url(http://i0.cy.com/tl3/cover/20121213/qr_default.jpg) left top no-repeat; display:none;}
+*html #popout-QR-default{position:absolute; margin-top:expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) - 60 + 'px');}
+

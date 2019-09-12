@@ -1,0 +1,154 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=640,minimum-scale=0,maximum-scale=5,user-scalable=no" name="viewport" />
+		<meta content="yes" name="apple-mobile-web-app-capable" />
+		<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+		<meta content="telephone=no" name="format-detection" />
+		<title>家园狂欢趴，豪礼嗨翻天—《天龙3D》官方网站 </title>
+		<meta name="Keywords" content="天龙八部，天龙八部3D，天龙八部手游，3D武侠手游，金庸武侠" />
+		<meta name="Description" content="《天龙八部3D》是由畅游自主研发，《天龙八部》原版人马打造，金庸正版授权的一款3D武侠MMORPG手游。" />
+		<meta name="author" content="Design:LiWei; Web Layout:WangHongWei;" />
+		<link rel="stylesheet" type="text/css" href="/act/all/css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="/act/all/css/swiper.min.css" />
+		<link rel="stylesheet" type="text/css" href="/act/cyapp/css/index.css" />
+		<script>
+			if (navigator.appVersion.indexOf('Android') != -1) {
+				document.addEventListener("DOMContentLoaded", function(e) {
+					document.getElementsByTagName('body')[0].style.zoom = e.target.activeElement.clientWidth / 640;
+				});
+			};
+		</script>
+	</head>
+	<body class="index">
+		<div class="header" app="tl3d">
+			<a class="logo" title="天龙3D"></a>
+			<dl class="game_intro">
+				<dt>
+					天龙3D
+				</dt>
+				<dd>
+					武侠
+				</dd>
+				<dd>
+					MMORPG
+				</dd>
+			</dl>
+			<p>
+
+			</p>
+		</div>
+		<div class="swiper_wrap">
+			<div class="swiper_area">
+				<!-- Swiper -->
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<img src="/act/cyapp/images/160X110_01.jpg"/>
+						</div>
+						<div class="swiper-slide">
+							<img src="/act/cyapp/images/160X110_02.jpg"/>
+						</div>
+						<div class="swiper-slide">
+							<img src="/act/cyapp/images/160X110_03.jpg"/>
+						</div>
+						<div class="swiper-slide">
+							<img src="/act/cyapp/images/160X110_01.jpg"/>
+						</div>
+						<div class="swiper-slide">
+							<img src="/act/cyapp/images/160X110_02.jpg"/>
+						</div>
+					</div>
+					<!-- Add Pagination -->
+					<div class="swiper-pagination"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="tabs">
+			<a href="giftCenter.shtml" title="礼包" class="tabs_01">
+				<img src="/act/cyapp/images/ico_gift.png"/>
+				<em>礼包</em>
+			</a>
+			<a href="graphic.shtml" title="攻略" class="tabs_02">
+				<img src="/act/cyapp/images/ico_book.png"/>
+				<em>攻略</em>
+			</a>
+			<a href="news.shtml" title="咨询" class="tabs_03">
+				<img src="/act/cyapp/images/ico_news.png"/>
+				<em>咨询</em>
+			</a>
+			<a href="video.shtml" title="视频" class="tabs_04">
+				<img src="/act/cyapp/images/ico_video.png"/>
+				<em>视频</em>
+			</a>
+		</div>
+
+		<div class="comment">
+			<!--<ul>
+				<li>
+					<span class="photo">
+						<img src="/act/cyapp/images/photo_01.png"/>
+					</span>
+					<h3>天龙一哥</h3>
+					<p>
+						<i>2017年11月15日</i>
+					</p>
+					<p>这里是评论这里是评论这里是评论这里是评论这里是评论</p>
+					<p>
+						<em>一天前</em>
+					</p>
+					<ins>99</ins>
+				</li>
+				<li>
+					<span class="photo">
+						<img src="/act/cyapp/images/photo_01.png"/>
+					</span>
+					<h3>天龙一哥</h3>
+					<p>
+						<i>2017年11月15日</i>
+					</p>
+					<p>这里是评论这里是评论这里是评论这里是评论这里是评论</p>
+					<p>
+						<em>一天前</em>
+					</p>
+					<ins>99</ins>
+				</li>
+				<li>
+					<span class="photo">
+						<img src="/act/cyapp/images/photo_01.png"/>
+					</span>
+					<h3>天龙一哥</h3>
+					<p>
+						<i>2017年11月15日</i>
+					</p>
+					<p>这里是评论这里是评论这里是评论这里是评论这里是评论</p>
+					<p>
+						<em>一天前</em>
+					</p>
+					<ins>99</ins>
+				</li>
+			</ul>-->
+			<div id="SOHUCS"></div>
+			<script charset="UTF-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js"></script>
+			<script type="text/javascript">
+                window.changyan.api.config({
+                    appid : 'cytsif3z1',
+                    conf : 'prod_079c7f41d85f80a5611a8015d98050f2'
+                });
+			</script>
+		</div>
+
+
+		<script src="/act/all/js/jquery-1.7.1.min.js"></script>
+		<script src="/act/all/js/swiper.min.js"></script>
+		<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+		<script src="http://www.changyou.com/cyouFile/shareToWx/js/share.actv2.wx.js"></script>
+		<script src="/js/join-activity-1.0.0.js"></script>
+		<script src="js/global.js"></script>
+		<script src="js/index.js"></script>
+		<!-- <script src="http://www.cy.com/js/cy_public_dark.js"></script> -->
+		<!--#include virtual="/act/all/dma/dma_activity.html" -->
+	</body>
+</html>

@@ -1,0 +1,3 @@
+<div id="vbox">
+	<video x-webkit-airplay="true" webkit-playsinline="true" playsinline="true" controls id="video"></video>
+</div>

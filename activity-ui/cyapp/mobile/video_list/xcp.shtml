@@ -1,0 +1,45 @@
+<div class="video_item">
+	<div class="video_img" dataUrl="http://files2.changyou.com/videos/mh/mhcb.mp4">
+		<img src="/act/cyapp/images/580X260_01.jpg"/>
+		<i></i>
+		<em>刀剑斗神传 11月30日拔刀内测</em>
+	</div>
+</div>
+<div class="video_item">
+	<div class="video_img" dataUrl="http://files2.changyou.com/vc/djdsz/2017/1124/gfmh3.mp4">
+		<img src="/act/cyapp/images/580X260_02.jpg"/>
+		<i></i>
+		<em>刀剑斗神传 11月30日拔刀内测</em>
+	</div>
+</div>
+<div class="video_item">
+	<div class="video_img" dataUrl="http://files2.changyou.com/videos/mh/mhcb.mp4">
+		<img src="/act/cyapp/images/580X260_01.jpg"/>
+		<i></i>
+		<em>刀剑斗神传 11月30日拔刀内测</em>
+	</div>
+</div>
+<div class="video_item">
+	<div class="video_img" dataUrl="http://files2.changyou.com/videos/mh/mhcb.mp4">
+		<img src="/act/cyapp/images/580X260_01.jpg"/>
+		<i></i>
+		<em>刀剑斗神传 11月30日拔刀内测</em>
+	</div>
+</div>
+<div class="video_item">
+	<div class="video_img" dataUrl="http://files2.changyou.com/videos/mh/mhcb.mp4">
+		<img src="/act/cyapp/images/580X260_01.jpg"/>
+		<i></i>
+		<em>刀剑斗神传 11月30日拔刀内测</em>
+	</div>
+</div>
+<div class="listPage">
+	共7条记录 1/2页
+	&nbsp;<a disabled="disabled">首页</a><a disabled="disabled">上一页</a>&nbsp;<a href="news_2.shtml">下一页</a><a href="news_2.shtml">尾页</a>
+	&nbsp;第
+	<select onChange="if(this.value==1){location='news.shtml'}else{location='news_'+this.value+'.shtml'}this.disabled='disabled'">
+		<option value="1" selected="selected">1</option>
+		<option value="2" >2</option>
+	</select>
+	页
+</div>

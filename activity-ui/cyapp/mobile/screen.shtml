@@ -1,0 +1,236 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=640,minimum-scale=0,maximum-scale=5,user-scalable=no" name="viewport" />
+		<meta content="yes" name="apple-mobile-web-app-capable" />
+		<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+		<meta content="telephone=no" name="format-detection" />
+		<title>家园狂欢趴，豪礼嗨翻天—《天龙3D》官方网站 </title>
+		<meta name="Keywords" content="天龙八部，天龙八部3D，天龙八部手游，3D武侠手游，金庸武侠" />
+		<meta name="Description" content="《天龙八部3D》是由畅游自主研发，《天龙八部》原版人马打造，金庸正版授权的一款3D武侠MMORPG手游。" />
+		<meta name="author" content="Design:LiWei; Web Layout:WangHongWei;" />
+		<link rel="stylesheet" type="text/css" href="/act/all/css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="/act/all/css/swiper.min.css" />
+		<link rel="stylesheet" type="text/css" href="/act/cyapp/css/index.css" />
+		<script>
+			if (navigator.appVersion.indexOf('Android') != -1) {
+				document.addEventListener("DOMContentLoaded", function(e) {
+					document.getElementsByTagName('body')[0].style.zoom = e.target.activeElement.clientWidth / 640;
+				});
+			};
+		</script>
+	</head>
+	<body class="screen">
+		<div class="screen_wrap">
+			<ul class="screen_list clearfix">
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg" data-url="/act/cyapp/images/640X450_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_01.jpg"/>
+				</li>
+				<li>
+					<img src="/act/cyapp/images/180X220_02.jpg"/>
+				</li>
+			</ul>
+		</div>
+		<div class="overlay"></div>
+		<!-- <div class="pop">
+		<img src="/act/cyapp/images/loading.gif"/>
+		</div> -->
+
+		<div class="pop pop_pic">
+			<div class="pop_load">
+				<img src="/act/cyapp/images/loading.gif"/>
+			</div>
+			<div class="box zoomIn animated">
+				<a class="pop_close"></a>
+				<section class="slide screen_pics">
+					<div class="slide_img">
+						<ul class="swiper-wrapper">
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+							<li class="swiper-slide">
+								<img class="zoomIn animated" src="/act/cyapp/images/640X450_01.jpg" width="640" height="450"/>
+							</li>
+						</ul>
+						<div class="screen_page">
+							<span class="btn_prev btn_prev_screen"></span>
+							<span class="btn_next btn_next_screen"></span>
+						</div>
+					</div>
+				</section>
+			</div>
+		</div>
+		<script src="/act/all/js/jquery-1.7.1.min.js"></script>
+		<script src="/act/all/js/swiper.min.js"></script>
+		<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+		<script src="http://www.changyou.com/cyouFile/shareToWx/js/share.actv2.wx.js"></script>
+		<script src="js/global.js"></script>
+		<!-- <script src="http://www.cy.com/js/cy_public_dark.js"></script> -->
+		<script>
+			/**$('.screen_list li img').click(function() {
+			 var dataUrl = $(this).attr('data-url');
+			 if (dataUrl) {
+			 $('.pop img').attr('src', dataUrl);
+			 } else {
+			 $('.pop img').attr('src', '/act/cyapp/images/loading.gif');
+			 }
+			 popup($('.pop'));
+			 });**/
+
+			$('.overlay').click(function() {
+				close();
+			});
+
+			function popup(target) {
+				target.fadeIn();
+				$('.overlay').fadeIn();
+			}
+
+			function close() {
+				$('.pop,.overlay').hide();
+			}
+
+			var popFlag = true;
+			$('.screen_list li img').click(function(event) {
+				$('body').on('touchmove', function(event) {
+					event.preventDefault();
+				});
+				popup($('.pop_pic'));
+				var interval = setInterval(function() {
+					if ($('.pop_pic').css('display') == 'block' && $('.pop_pic').css('opacity') == 1) {
+						// alert(1);
+						$('.pop_load').fadeOut();
+						if (popFlag) {
+							setTimeout(function() {
+								var num_screen = $(".screen_pics .slide_img li").length;
+								if (num_screen > 1) {
+									var banner = new Swiper(".screen_pics .slide_img", {
+										nextButton : ".btn_prev_screen",
+										prevButton : ".btn_next_screen",
+										loop : true
+									});
+
+								}
+								popFlag = false;
+							}, 0);
+						}
+						$('.screen_page').show();
+						clearInterval(interval);
+						return;
+					}
+					//do whatever here..
+				}, 2000);
+			});
+		</script>
+		<!--#include virtual="/act/all/dma/dma_activity.html" -->
+	</body>
+</html>
