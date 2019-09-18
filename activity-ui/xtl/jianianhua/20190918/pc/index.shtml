@@ -1,0 +1,239 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,金庸,MMO,天龙八部OL,萧峰,段誉,虚竹,王语嫣,天龙八部钟汉良版,天龙八部黄日华版,8周年,八周年,周年庆,全民代言,纵情四海," />
+<meta name="description" content="《新天龙八部》全新版本纵情四海即将揭晓，亲朋好友齐聚江湖，多重夏季活动持续更新，暑期福利天天放送，热力引爆整个夏天！入驻新服，秒享多项特权；社交体系全面进化，让天龙成为你的生活方式，情燃七月，四海天下！" />
+<meta name="author" content="Design:CP; Web Layout:CP;" />
+<title>女神召集令-《新天龙八部》官方网站</title>
+<link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+<link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" /> 
+<link type="text/css" rel="stylesheet" href="http://tl.changyou.com/css/reset.css" />
+<link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/pc/css/swiper.min.css" />
+<link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/pc/css/cropper.css" />
+<link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/pc/css/global.css" />
+</head>
+<body>
+<ul class="flw"></ul>
+<div class="con con-1">
+	<div class="wrap">
+		<div class="absolute full-img logo-icon">
+			<img src="/act/xtl/jianianhua/20190918/pc/img/logo.png" alt="天龙logo">
+		</div>
+        <div class="full-img title-icon">
+            <img src="/act/xtl/jianianhua/20190918/pc/img/title.png" alt="标题">
+            <h1 class="hide">新门派 桃花岛来袭</h1>
+        </div>
+        <i class="absolute bg flower-icon1"></i>
+        <i class="absolute bg flower-icon2"></i>
+	</div>
+</div>
+<div class="con con-2">
+	<div class="wrap">
+        <h2 class="icons title title-1 t">新门派抢先预约</h2>
+        <div class="input-container">
+            <div class="input-wrap">
+                <input type="tel" placeholder="请输入手机号码" />
+            </div>
+            <div class="input-wrap code-input">
+                <input type="text" placeholder="请输入验证码" />
+                <a href="javascript: ;" class="absolute text-center code-btn">获取验证码</a>
+            </div>
+            <a href="javascript: ;" class="icons order-btn scale-line btn-hover t" title="抢先预约">抢先预约</a>
+        </div>
+	</div>
+</div>
+<div class="con con-3">
+	<div class="wrap">
+        <h2 class="icons title title-2 t">新门派抢先预约</h2>
+        <div class="swiper-box">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide full-img">
+                        <img src="/act/xtl/jianianhua/20190918/pc/img/swiper_1.jpg" alt="门派介绍1">
+                    </div>
+                    <div class="swiper-slide full-img">
+                        <img src="/act/xtl/jianianhua/20190918/pc/img/swiper_1.jpg" alt="门派介绍2">
+                    </div>
+                    <div class="swiper-slide full-img">
+                        <img src="/act/xtl/jianianhua/20190918/pc/img/swiper_1.jpg" alt="门派介绍3">
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <div class="absolute icons perv-btn"></div>
+            <div class="absolute icons next-btn"></div>
+        </div>
+	</div>
+</div>
+
+<!-- 红包 -->
+<div class="pop pop1" id="pop1">
+    <a href="javascript: ;" class="absolute icons start-hb scale-line t">开启红包</a>
+    <!-- 关闭按钮 -->
+    <a href="javascript:showDialog.hide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
+</div>
+<!-- 恭喜您 获得礼包一份 请登录游戏账号 -->
+<div class="pop pop2" id="pop2">
+    <h3 class="text-center pop-title-text">恭喜您</h3>
+    <p class="text-center pop-description-text">获得价值9999元的礼包一份，请登录您的游戏账号进行领取哦！</p>
+    <ul class="text-center prize-list">
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">玄灵丹x1</p>
+        </li>
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">功力丹x2</p>
+        </li>
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">坐骑:雪羽(14天)</p>
+        </li>
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">棉布3级x1</p>
+        </li>
+    </ul>
+    <!-- 账号密码 -->
+    <div class="text-center login-contaienr">
+        <span class="input-name">账号:</span>
+        <input class="input input-1" type="text" placeholder="请输入账号" />
+        <span class="input-name">密码:</span>
+        <input class="input" type="password" />
+    </div>
+    <a href="javascript: ;" class="icons order-btn2 scale-line t">抢先预约</a>
+    <!-- 关闭按钮 -->
+    <a href="javascript:showDialog.hide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
+</div>
+<!-- 恭喜您 获得礼包一份 -->
+<div class="pop pop3" id="pop3">
+    <h3 class="text-center pop-title-text">恭喜您</h3>
+    <p class="text-center pop-description-text">已获得价值9999元的礼包一份，请到大理龚彩云处进行领取哦！</p>
+    <ul class="text-center prize-list">
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">玄灵丹x1</p>
+        </li>
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">功力丹x2</p>
+        </li>
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">坐骑:雪羽(14天)</p>
+        </li>
+        <li class="prize-item">
+            <div class="icons prize-icon">
+                <!-- 奖品图 -->
+            </div>
+            <p class="text-center prize-name-text">棉布3级x1</p>
+        </li>
+    </ul>
+    <!-- 关闭按钮 -->
+    <a href="javascript:showDialog.hide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
+</div>
+
+<script src="/act/all/js/jquery-1.8.3.min.js"></script>
+<script src="/js/join-activity-1.0.0.js"></script>
+<script src="/act/xtl/jianianhua/20190918/pc/js/showDialog.min.js"></script>
+<script src="/act/xtl/jianianhua/20190918/pc/js/select.js"></script>
+<script src="/act/xtl/jianianhua/20190918/pc/js/swiper.min.js"></script>
+<script src="/act/xtl/jianianhua/20190918/pc/js/cropper.js"></script>
+<script src="/act/xtl/jianianhua/20190918/pc/js/index.js"></script>
+<script>
+    //花瓣
+    var flowInit = function (container, flwCss, aniCss) {
+        var screenWidth = 1920,
+            screenHeight = 1080,
+            maxDuration = 15,
+            createFlow = function () {
+                container.append('<li class="' + flwCss[Math.floor(Math.random() * (flwCss.length - 1))] + '"><span class="' + aniCss[Math.floor(Math.random() * (aniCss.length - 1))] + '"></span></li > ');
+                var item = container.find('li').last(),
+                    startPositionLeft = 200-screenWidth * 1 / 3 * Math.random(),
+                    startPositionTop = -100,
+                    endPositionTop = screenHeight + 200,
+                    endPositionLeft = startPositionLeft - screenWidth * 2 / 3 * Math.random() - screenWidth * 1 / 3,
+                    duration = maxDuration * 2 / 3 + maxDuration * 1 / 3 * Math.random();
+                item.css({
+                    'transform': 'translate(' + startPositionLeft + 'px,' + startPositionTop + 'px)',
+                    '-webkit-transform': 'translate(' + startPositionLeft + 'px,' + startPositionTop + 'px)'
+                });
+                setTimeout(function () {
+                    item.css({
+                        '-webkit-transform': 'translate(' + endPositionLeft + 'px,' + endPositionTop + 'px)',
+                        '-webkit-transition': duration + 's ease-out',
+                        'transform': 'translate(' + endPositionLeft + 'px,' + endPositionTop + 'px)',
+                        'transition': duration + 's ease-out'
+                    }).one('webkitTransitionEnd transitionend', function () {
+                        $(this).remove();
+                    });
+                }, 100);
+            };
+        if (typeof document.getElementsByTagName("body")[0].style.animation != 'undefined') {
+            createFlow();
+            setInterval(createFlow, 2000);
+        }
+    };
+    flowInit($('.flw'),
+        ['sp1', 'sp2', 'sp3', 'sp4', 'sp5', 'sp6'],
+        ['fallani1', 'fallani2', 'fallani3']
+    );
+</script>
+<script>
+
+    //滚动
+    var swiper1 = new Swiper('.swiper-box .swiper-container',{
+        effect: 'coverflow',
+        loop : true,//可选选项，开启循环
+        slidesPerView : 'auto',
+        centeredSlides: true,
+        paginationClickable :true,
+        //其他设置
+        coverflowEffect: {
+            rotate : 0,
+            stretch: 400,
+            depth  : 300,
+            shadows: false
+        },
+        navigation: {
+            nextEl: '.swiper-box .next-btn',
+            prevEl: '.swiper-box .prev-btn',
+        },
+        pagination: {
+            el: '.swiper-box .swiper-pagination',
+        },
+    });
+
+    //pop
+    function showDia(e,fun){
+	    showDialog.show({
+	        id:e, //需要弹出的id，如果是弹出页面上的div，则该选项为必选
+	        bgcolor:"#000000",//弹出“遮罩”的颜色，格式为"#FF6600"，可选，默认为"#fff"
+	        opacity:50 //弹出“遮罩”的透明度，格式为｛10-100｝，可选
+	    });
+		$('body').css("overflow", "hidden")
+	    fun && fun();
+    }
+
+</script>
+<!--#include virtual="/all/nav/xtl_dark.html"-->
+<!--#include virtual="/all/dma/dma_activity.html"-->
+</body>
+</html>
