@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8052255-b001-4cca-a24c-f66570dbf66c" name="默认的" comment="9/14">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/pc/index.shtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/swiper.3dflow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/swiper.3dflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/mobile/index.shtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/all/js/swiper-3.4.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/all/js/swiper-3.4.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/mobile/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/goddess/20180920/mobile/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/bg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/bg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/bg3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/flower.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/flower.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/flower_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/flower_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/flower_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/flower_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/hongbao.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/hongbao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/pop_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/pop_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/swiper_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/swiper_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/title.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/title.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/thknot/20190912/mobile/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/thknot/20190912/mobile/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity-ui/act/all/js/swiper-3.4.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/act/all/js/swiper-3.4.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity-ui/act/xtl/goddess/20180920/mobile/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/act/xtl/goddess/20180920/mobile/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity-ui/act/xtl/goddess/20180920/pc/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/act/xtl/goddess/20180920/pc/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/pc/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/pc/index.shtml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +48,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -33,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\appatch\htdocs\changyou\activity-ui\xtl\jianianhua\20190918\mobile" />
       <recent name="D:\appatch\htdocs\changyou\activity-ui\xtl\jianianhua\20190918\pc" />
     </key>
   </component>
@@ -62,6 +95,7 @@
       <workItem from="1568596297930" duration="6692000" />
       <workItem from="1568686059898" duration="14522000" />
       <workItem from="1568776851443" duration="16203000" />
+      <workItem from="1568854752103" duration="25316000" />
     </task>
     <task id="LOCAL-00001" summary="9/14">
       <created>1568596505198</created>

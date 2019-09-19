@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>新门派 桃花岛来袭 -《新天龙八部》官方网站</title>
+    <meta name="applicable-device" content="mobile">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,maximum-scale=1,viewport-fit=cover"/>
+    <meta name="format-detection" content="telephone=no" />
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta name="robots" content="all" />
+    <meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,金庸,MMO,天龙八部OL,萧峰,段誉,虚竹,王语嫣,天龙八部钟汉良版,天龙八部黄日华版,8周年,八周年,周年庆,全民代言,纵情四海," />
+    <meta name="description" content="《新天龙八部》全新版本纵情四海即将揭晓，亲朋好友齐聚江湖，多重夏季活动持续更新，暑期福利天天放送，热力引爆整个夏天！入驻新服，秒享多项特权；社交体系全面进化，让天龙成为你的生活方式，情燃七月，四海天下！" />
+    <meta name="author" content="Design:CP; Web Layout:CP;" />
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" />
+    <link href="/act/all/css/reset.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/mobile/css/swiper.min.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/mobile/css/cropper.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/mobile/css/global.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/jianianhua/20190918/mobile/css/index.css" />
+    <script>
+        var phoneWidth = parseInt(window.screen.width);
+        var phoneScale = phoneWidth / 750;
+        var ua = navigator.userAgent;
+        if (/Android (\d+\.\d+)/.test(ua)) {
+            var version = parseFloat(RegExp.$1);
+            // andriod 2.3
+            if (version > 2.3) {
+                document.write('<meta name="viewport" content="width=750, minimum-scale = ' + phoneScale + ', maximum-scale = ' + phoneScale + ', target-densitydpi=device-dpi">');
+                // andriod 2.3
+            } else {
+                document.write('<meta name="viewport" content="width=750, target-densitydpi=device-dpi">');
+            }
+        } else {
+            document.write('<meta name="viewport" content="width=750, user-scalable=no, target-densitydpi=device-dpi">');
+        }
+    </script>
+    <script type="text/javascript">
+        var deviceWidth = document.documentElement.clientWidth;
+        if(deviceWidth > 750){
+            deviceWidth = 750
+        };
+        document.documentElement.style.fontSize = deviceWidth / 7.5 + 'px';
+    </script>
+</head>
+<body>
+<div class="container">
+    <!-- 天龙游戏下载 -->
+    <a href="javascript: ;" class="fix-top flex">
+        <div class="full-img game-icon">
+            <img src="/act/xtl/jianianhua/20190918/mobile/img/logo.png" alt="天龙logo">
+        </div>
+        <div class="game-description-wrap flex-1">
+            <h2 class="game-title-text">天龙八部端游</h2>
+            <p class="game-description-text">十年经典金庸正版授权</p>
+            <div class="flex">
+                <span class="game-label-text">回归热度</span>
+                <i class="icons game-star-icon"></i>
+            </div>
+        </div>
+        <div class="icons download-btn btn-hover t">立即下载</div>
+    </a>
+    <div class="absolute flw"></div>
+    <!-- 头部 -->
+    <div class="bg con con-1 part">
+        <div class="bg title-icon move-right">
+            <h2 class="hide">新门派桃花岛来袭</h2>
+            <ul class="absolute server-list flex">
+                <li class="server-item server-item-left move-right delay-dot5">
+                    <i class="icons server-icon"></i>
+                    <p class="text-center server-name-text">桃花岛新服11月1日开启</p>
+                </li>
+                <li class="server-item server-item-left move-right delay-dot4">
+                    <i class="icons server-icon"></i>
+                    <p class="text-center server-name-text">桃花岛新服11月1日开启</p>
+                </li>
+                <li class="server-item move-right delay-dot3">
+                    <i class="icons server-icon"></i>
+                    <p class="text-center server-name-text">桃花岛新服11月1日开启</p>
+                </li>
+            </ul>
+        </div>
+        <div class="absolute bg bg1-down-icon"></div>
+    </div>
+    <!-- 新门派桃花岛来袭 -->
+    <div class="bg con con-2 part">
+        <div class="icons title-icon move-up t">
+            <h1 class="hide">新门派抢先预约</h1>
+        </div>
+        <div class="input-container">
+            <div class="input-wrap move-up delay-dot1">
+                <input type="tel" placeholder="请输入手机号码" />
+            </div>
+            <div class="input-wrap code-input move-up delay-dot2">
+                <input type="text" placeholder="请输入验证码" />
+                <a href="javascript: ;" class="absolute text-center code-btn">获取验证码</a>
+            </div>
+            <div class="move-up delay-dot3">
+                <a href="javascript: ;" class="icons order-btn scale-line btn-hover t" title="抢先预约">抢先预约</a>
+            </div>
+        </div>
+    </div>
+    <!-- 新门派介绍 -->
+    <div class="bg con con-3 part">
+        <h2 class="icons title-icon move-up t">新门派介绍</h2>
+        <div class="swiper-box move-up delay-dot1">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide full-img">
+                        <img src="/act/xtl/jianianhua/20190918/mobile/img/swiper_1.jpg" alt="门派介绍1">
+                    </div>
+                    <div class="swiper-slide full-img">
+                        <img src="/act/xtl/jianianhua/20190918/mobile/img/swiper_1.jpg" alt="门派介绍2">
+                    </div>
+                    <div class="swiper-slide full-img">
+                        <img src="/act/xtl/jianianhua/20190918/mobile/img/swiper_1.jpg" alt="门派介绍3">
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <div class="absolute icons prev-btn moves-left"></div>
+            <div class="absolute icons next-btn moves-right"></div>
+        </div>
+    </div>
+</div>
+
+<!-- 红包 -->
+<div class="pop pop1" id="pop1">
+    <a href="javascript: ;" class="absolute icons start-hb scale-line t">开启红包</a>
+    <!-- 关闭按钮 -->
+    <a href="javascript:popHide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
+</div>
+<!-- 恭喜您 获得礼包一份 请登录游戏账号 -->
+<div class="pop pop2" id="pop2">
+    <div class="pop-wrap">
+        <h3 class="text-center pop-title-text">恭喜您</h3>
+        <p class="pop-description-text">获得价值9999元的礼包一份，请登录您的游戏账号进行领取哦！</p>
+        <ul class="text-center prize-list">
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">玄灵丹x1</p>
+            </li>
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">功力丹x2</p>
+            </li>
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">坐骑:雪羽(14天)</p>
+            </li>
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">棉布3级x1</p>
+            </li>
+        </ul>
+        <!-- 账号密码 -->
+        <div class="text-center login-contaienr">
+            <span class="input-name">账号:</span>
+            <input class="input input-1" type="text" placeholder="请输入账号" />
+            <br/>
+            <span class="input-name">密码:</span>
+            <input class="input" type="password" />
+        </div>
+        <a href="javascript: ;" class="icons order-btn2 scale-line t">抢先预约</a>
+    </div>
+    <!-- 关闭按钮 -->
+    <a href="javascript:popHide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
+</div>
+<!-- 恭喜您 获得礼包一份 -->
+<div class="pop pop3" id="pop3">
+    <div class="pop-wrap">
+        <h3 class="text-center pop-title-text">恭喜您</h3>
+        <p class="pop-description-text">已获得价值9999元的礼包一份，请到大理龚彩云处进行领取哦！</p>
+        <ul class="text-center prize-list">
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">玄灵丹x1</p>
+            </li>
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">功力丹x2</p>
+            </li>
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">坐骑:雪羽(14天)</p>
+            </li>
+            <li class="prize-item">
+                <div class="icons prize-icon">
+                    <!-- 奖品图 -->
+                </div>
+                <p class="text-center prize-name-text">棉布3级x1</p>
+            </li>
+        </ul>
+    </div>
+    <!-- 关闭按钮 -->
+    <a href="javascript: popHide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
+</div>
+<script src="/act/all/js/jquery-1.8.3.min.js"></script>
+<script src="/js/join-activity-1.0.0.js"></script>
+<script src="/act/xtl/jianianhua/20190918/mobile/js/swiper.min.js"></script>
+<script src="/act/xtl/jianianhua/20190918/mobile/js/index.js"></script>
+<script>
+
+    //pop
+    var popIsShow = false;
+    var popDom = null;
+    function popShow(id) {
+        popHide();
+        var p = $('#'+id);
+        popDom = p;
+        console.log(popDom.width());
+        if (p) {
+            p.show().css({
+                position: 'fixed',
+                top: '50%',
+                left: '50%',
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+            p.attr('for', 'pop');
+            popIsShow = true;
+            if ($('[for="' + id + '"]').length >= 1) return;
+            $('body').append('<div name="overlay" for=' + id + ' style="width:100%;height:100%;position:fixed;top:0;left:0;z-index:997;background:rgba(0,0,0,0.8);"></div>');
+        }
+    }
+    function popHide() {
+        $('[for="pop"]').hide().attr('style', '');
+        $('[name="overlay"]').remove();
+    }
+    window.addEventListener("resize", function () {
+        if (!popIsShow)
+            return;
+        setTimeout(function () {
+            popDom.css({
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+        }, 400)
+    });
+
+    if(!/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        window.location.href = "../pc/index.shtml";
+    }
+</script>
+<!--#include virtual="/all/dma/dma_activity.html"-->
+</body>
+</html>
