@@ -127,7 +127,7 @@
 
 <!-- 红包 -->
 <div class="pop pop1" id="pop1">
-    <a href="javascript: ;" class="absolute icons start-hb scale-line t">开启红包</a>
+    <a href="javascript: ;" class="absolute bg tada start-hb t">开启礼包</a>
     <!-- 关闭按钮 -->
     <a href="javascript:popHide();" class="absolute icons pop-close t" title="点击关闭">关闭</a>
 </div>

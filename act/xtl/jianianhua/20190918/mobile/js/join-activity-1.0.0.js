@@ -10,6 +10,7 @@
                 if(this===null||this===undefined)throw TypeError("Array.prototype.indexOf called on null or undefined");
 
                 var that = Object(this), Len = that.length >>> 0, i = min(fromIndex | 0, Len);
+                var that = Object(this), Len = that.length >>> 0, i = min(fromIndex | 0, Len);
                 if (i < 0) i = max(0, Len+i); else if (i >= Len) return -1;
 
                 if(member===void 0){ for(; i !== Len; ++i) if(that[i]===void 0 && i in that) return i; // undefined

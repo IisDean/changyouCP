@@ -94,15 +94,6 @@ a:hover {text-decoration:none;}
 .top-share a:hover{color:#ef526f;}
 .share{width:0.90rem;position:absolute;top:0.08rem;right:0.13rem;}
 
-.pop{width:4.37rem;position:relative;font-size:0.2rem;color:#666;display: none;}
-.pop1{height:1.73rem;background:url(../img/pop1.jpg) no-repeat;text-align:center;background-size: 100% auto;}
-.pop1 p{padding-top:0.45rem;}
-.pop2{height:2.71rem;background:url(../img/pop2.png) no-repeat;background-size: 100% auto;}
-.pop3{height:5.21rem;background:url(../img/pop3.png) no-repeat;background-size: 100% auto;}
-.pop4{width:5.31rem;height:4.2rem;background:url(../img/pop4.png) no-repeat;background-size: 100% auto;}
-.pop5{width:5.61rem;height:5.6rem;background:url(../img/pop5.png) no-repeat;background-size: 100% auto;}
-.pop6{width:6.21rem;height:9.92rem;background:url(../img/pop6.png) no-repeat;background-size: 100% auto;}
-.pop7{width:5.51rem;height:4.16rem;background:url(../img/pop7.png) no-repeat;background-size: 100% auto;}
 
 .pop-login{width:1.28rem;height:0.32rem;background-position:-3.19rem -1.84rem;color:#fff;line-height:0.3rem;margin:0.3rem auto 0;}
 .pop-rule{line-height:0.28rem;padding:0.6rem 0.45rem 0;margin-bottom:-0.35rem;}

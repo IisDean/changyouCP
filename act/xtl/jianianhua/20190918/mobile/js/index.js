@@ -1,3 +1,22 @@
+//获取验证码
+var isGetCode = true;//验证码获取状态 true为可发送获取请求
+var codeTimer;
+var $codeBtn = $(".code-btn");
+$codeBtn.on("click", function(){
+    if( !isGetCode )return false;
+    var codeTime = 60;
+    isGetCode = !isGetCode;
+    codeTimer = setInterval(function(){
+        codeTime--;
+        $codeBtn.text('剩余'+codeTime+'秒').addClass("filter");
+        if(codeTime <= 0){
+            isGetCode = !isGetCode;
+            $codeBtn.text('获取验证码').removeClass('filter');
+            clearInterval(codeTimer);
+        }
+    }, 1000);
+});
+
 //抢先预约
 $(".order-btn").on("click", function(){
     popShow("pop1");
