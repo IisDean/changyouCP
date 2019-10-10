@@ -2,26 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8052255-b001-4cca-a24c-f66570dbf66c" name="默认的" comment="9/14">
-      <change afterPath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activity-ui/xtl/mpzys/20190920/pc/index.shtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity-ui/xtl/carnival/20190918/pc/index.shtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/cropper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/join-activity-1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/quansu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/goddess/20180920/pc/js/select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/img/hongbao.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/img/hongbao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/img/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/img/icons.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/join-activity-1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/mobile/js/join-activity-1.0.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/hongbao.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/hongbao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/img/icons.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/jianianhua/20190918/pc/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/mobile/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/mobile/index.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/pc/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/xtl/jianianhua/20190918/pc/index.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/img/bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/img/bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/img/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/img/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/cropper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/join-activity-1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/quansu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/act/xtl/mpzys/20190920/pc/js/swiper.3dflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity-ui/xtl/mpzys/20190920/pc/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/activity-ui/xtl/mpzys/20190920/pc/index.shtml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +92,14 @@
       <workItem from="1569322066079" duration="1782000" />
       <workItem from="1569373670177" duration="32000" />
       <workItem from="1569376272801" duration="3186000" />
+      <workItem from="1569464279108" duration="3343000" />
+      <workItem from="1569483873150" duration="20000" />
+      <workItem from="1569491613071" duration="1079000" />
+      <workItem from="1569546393924" duration="206000" />
+      <workItem from="1570524006254" duration="1951000" />
+      <workItem from="1570583497898" duration="2352000" />
+      <workItem from="1570670763114" duration="6637000" />
+      <workItem from="1570690266103" duration="5273000" />
     </task>
     <task id="LOCAL-00001" summary="9/14">
       <created>1568596505198</created>

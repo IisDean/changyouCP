@@ -24,16 +24,16 @@ var playLive=function(n){
 playLive(0);//默认调用第一个直播间
 
 //点击播放视频 精彩花絮
-$(".video-list").on("click", " .swiper-slide", function () {
+$(".video-list").on("click", " .swiper-slide", function(){
     var vid = $(this).attr('data-vid');
     showDia("pop5");
     $('#video_player').commVideoPlayer({
-        v_id: vid,		//视频ID（8位数字）
+        v_id : vid,		//视频ID（8位数字）
         autoPlay: true 			//传入值：true-自动播放，false-不自动播放
     });
 });
 //关闭视频播放
-$(".video-pop .close").on("click", function () {
+$(".video-pop .close").on("click", function(){
     $('#video_player').replaceWith('<div id="video_player">\n' +
         '        <span class="text-center video_placeholder">视频正在下载中...</span>\n' +
         '    </div>');

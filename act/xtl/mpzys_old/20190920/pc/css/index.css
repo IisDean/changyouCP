@@ -475,9 +475,6 @@
 .btn-add-filter {
     background-position: 0 -414px;
 }
-.btn-add-none {
-    background-position: 0 -445px;
-}
 .fans-num-text {
     display: inline-block;
     margin-top: 20px;
@@ -649,7 +646,7 @@
     width: 100%;
     height: 100%;
 }
-.video-pop #video_placeholder {
+.video-pop .video_placeholder {
     display: inline-block;
     width: 100%;
     height: 100%;

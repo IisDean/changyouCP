@@ -483,7 +483,7 @@
                         </div>
                         <div class="tb-3 float-left">
                             <p class="fans-num-text">1234567</p>
-                            <a href="javascript: ;" class="icons btn-add btn-add-none btn-hover" title="加入阵营"></a>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
                         </div>
                     </li>
                 </ul>

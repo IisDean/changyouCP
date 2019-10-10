@@ -52,10 +52,8 @@ var swiper1 = new Swiper('.swiper-box .swiper-container',{
     paginationClickable :true,
     autoplay : 3000,//可选选项，自动滑动
     loop : true,//可选选项，开启循环
-    slidesPerView : 'auto',
-    // loopedSlides : 3,
+    slidesPerView : '1.25',
     centeredSlides : true,
-    //其他设置
     tdFlow: {
         rotate : 0,
         stretch : 243,

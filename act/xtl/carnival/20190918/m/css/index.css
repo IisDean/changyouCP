@@ -1,0 +1,608 @@
+.absolute {
+    position: absolute;
+}
+.icons {
+    display: block;
+    background-image: url("../img/icons.png");
+    background-size: 601px 323px;
+    background-repeat: no-repeat;
+}
+.btn-hover:hover {
+    filter: brightness(1.1);
+    -webkit-filter: brightness(1.1);
+}
+.hide {
+    display: none;
+}
+.full-img img {
+    display: block;
+    width: 100%;
+}
+.t {
+    text-indent: -999em;
+    overflow: hidden;
+}
+.bg {
+    display: block;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.text-center {
+    text-align: center;
+}
+.btn {
+    transition: all .2s;
+    -webkit-transition: all .2s;
+}
+.btn:active {
+    transform: scale(.95);
+    -webkit-transform: scale(.95);
+}
+.flex {
+    display: flex;
+    display: -webkit-flex;
+}
+.flex-1 {
+    flex: 1;
+    -webkit-flex: 1;
+}
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 750px;
+    overflow: hidden;
+}
+/* 顶部游戏连接 */
+.fix-top {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 139px;
+    background-color: #39989e;
+}
+.game-icon {
+    margin-top: 7px;
+    margin-left: 14px;
+    width: 125px;
+    height: 125px;
+}
+.game-description-wrap {
+    margin-left: 12px;
+}
+.game-title-text {
+    margin-top: 22px;
+    line-height: 1;
+    font-size: 28px;
+    color: #fff;
+}
+.game-description-text {
+    margin-top: 15px;
+    line-height: 1;
+    font-size: 18px;
+    color: #fff;
+}
+.game-label-text {
+    margin-top: 12px;
+    line-height: 1;
+    font-weight: bold;
+    font-size: 21px;
+    color: #fff;
+}
+.game-star-icon {
+    margin-top: 12px;
+    margin-left: 8px;
+    width: 130px;
+    height: 22px;
+    background-position: -458px -244px;
+}
+.download-btn {
+    margin-top: 30px;
+    margin-right: 30px;
+    width: 266px;
+    height: 76px;
+    background-position: 0 -247px;
+}
+.con {
+    position: relative;
+    width: 750px;
+    overflow: hidden;
+}
+/* 头部 */
+.con-1 {
+    height: 849px;
+    background-image: url("../img/bg1.jpg");
+}
+.con-1 .title-icon {
+    position: relative;
+    z-index: 99;
+    margin-top: 110px;
+    width: 450px;
+    height: 737px;
+    background-image: url("../img/title.png");
+}
+.bg1-down-icon {
+    bottom: 0;
+    left: 0;
+    z-index: 5;
+    width: 750px;
+    height: 158px;
+    background-image: url("../img/bg1_down.png");
+    pointer-events: none;
+}
+.server-list {
+    top: 387px;
+    left: 137px;
+}
+.server-item-left {
+    margin-right: 14px;
+}
+.server-icon {
+    margin: 0 auto;
+    width: 15px;
+    height: 14px;
+    background-position: -503px -288px;
+}
+.server-name-text {
+    display: block;
+    margin-top: 5px;
+    width: 22px;
+    line-height: 1.1;
+    font-size: 20px;
+    color: #4b807e;
+}
+ /* 新门派 抢先预约 */
+.con-2 {
+    height: 405px;
+    background-image: url("../img/bg2.jpg");
+}
+.con-2 .title-icon {
+    margin: 19px auto 0;
+    width: 601px;
+    height: 76px;
+    background-position: 0 0;
+}
+.input-container {
+    margin-top: 13px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.input-wrap {
+    position: relative;
+    margin: 11px auto 0;
+    width: 410px;
+    height: 46px;
+}
+.input-wrap input {
+    display: block;
+    padding: 10px 12px;
+    width: 410px;
+    height: 46px;
+    border: 1px solid #e1f2f7;
+    border-radius: 6px;
+    background-color: #fff;
+    font-size: 16px;
+    color: #a1a1a1;
+    box-sizing: border-box;
+}
+.code-input input {
+    width: 288px;
+}
+.code-btn {
+    top: 0;
+    right: 0;
+    display: block;
+    width: 110px;
+    height: 46px;
+    border-radius: 6px;
+    background-color: #fff4d8;
+    line-height: 46px;
+    font-size: 16px;
+    color: #365f65;
+}
+.code-btn.filter {
+    color: #ababab;
+}
+.code-btn.filter {
+    background-color: #fff4d8 !important;
+}
+.code-btn:hover {
+    background-color: #f8e5b7;
+}
+.order-btn {
+    margin: 20px auto 0;
+    width: 289px;
+    height: 78px;
+    background-position: 0 -164px;
+}
+/* 新门派 抢先预约 */
+.con-3 {
+    height: 937px;
+    background-image: url("../img/bg3.jpg");
+}
+.con-3 .title-icon {
+    margin: 20px auto 0;
+    width: 601px;
+    height: 77px;
+    background-position: 0 -82px;
+}
+.swiper-box {
+    position: relative;
+    margin: 50px auto 0;
+    width: 584px;
+}
+.swiper-box .swiper-container {
+    padding-bottom: 50px;
+}
+.swiper-box .swiper-slide {
+    width: 361px;
+    border: 1px solid #cfb465;
+}
+.swiper-box .swiper-slide.swiper-slide-active {
+    padding: 3px;
+    border-color: #73a0b1;
+    background-color: rgba(255, 255, 255, .5);
+}
+.prev-btn,
+.next-btn {
+    top: 232px;
+    z-index: 1;
+    width: 40px;
+    height: 69px;
+    cursor: pointer;
+    outline: none;
+}
+.prev-btn {
+    left: -50px;
+    background-position: -516px -168px;
+}
+.next-btn {
+    right: -50px;
+    background-position: -563px -168px;
+}
+.swiper-box .swiper-pagination-bullet {
+    border: 2px solid #73a0b1;
+    background-color: transparent;
+}
+.swiper-box .swiper-pagination-bullet-active {
+    background-color: #73a0b1;
+}
+/* 弹窗 */
+.pop {
+    position: relative;
+    display: none;
+    box-sizing: border-box;
+}
+.pop-close {
+    top: 0;
+    right: -46px;
+    width: 31px;
+    height: 31px;
+    background-position: -458px -281px;
+}
+.pop1 {
+    width: 341px;
+    height: 354px;
+}
+.start-hb {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/hongbao.png");
+}
+.pop2, .pop3 {
+    background-image: url("../img/pop_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.pop2 {
+    width: 619px;
+    height: 436px;
+    background-position: 0 0;
+}
+.pop2 .pop-wrap {
+    padding: 9px 29px 9px 55px;
+}
+.pop3 {
+    width: 619px;
+    height: 346px;
+    background-position: 0 -357px;
+}
+.gift-icon {
+    margin: 0 auto;
+    width: 229px;
+    height: 147px;
+}
+.pop3 .pop-wrap {
+    padding: 9px 29px 9px 55px;
+}
+.pop-title-text {
+    margin-top: 15px;
+    line-height: 1;
+    font-weight: bold;
+    font-size: 38px;
+    color: #478487;
+}
+.pop-description-text {
+    margin: 8px 28px 0;
+    font-size: 22px;
+    color: #478487;
+}
+.prize-list {
+    margin: 0 auto;
+}
+.prize-item {
+    display: inline-block;
+    width: 110px;
+}
+.prize-icon {
+    margin: 0 auto;
+    width: 84px;
+    height: 84px;
+    background-position: -363px -239px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prize-name-text {
+    margin-top: 5px;
+    line-height: 1;
+    font-size: 14px;
+    color: #478487;
+}
+.login-contaienr {
+    margin-top: 18px;
+}
+.input-name {
+    line-height: 1;
+    font-size: 20px;
+    color: #478487;
+}
+.login-contaienr .input {
+    display: inline-block;
+    padding: 0 10px;
+    width: 272px;
+    height: 33px;
+    border: 1px solid #aadfe3;
+    color: #478487;
+    box-sizing: border-box;
+}
+.login-contaienr .input-1 {
+    margin-bottom: 10px;
+}
+.order-btn2 {
+    margin: 16px auto 0;
+    width: 218px;
+    height: 56px;
+    background-position: -289px -165px;
+}
+/* 花瓣 */
+.flw {
+    position: absolute;
+    top: 139px;
+    right: 0;
+    z-index: 4;
+    width: 100%;
+    height: 849px;
+    pointer-events: none;
+    overflow: hidden;
+}
+.flw li {
+    position: absolute;
+    top: -100px;
+    right: 0;
+}
+.flw span {
+    display: block;
+    background-image: url("../img/flower.png");
+    background-repeat: no-repeat;
+}
+.flw .sp1 span {
+    width: 94px;
+    height: 57px;
+    background-position: 0 0;
+}
+.flw .sp2 span {
+    width: 107px;
+    height: 86px;
+    background-position: -103px 0;
+}
+.flw .sp3 span {
+    width: 61px;
+    height: 46px;
+    background-position: 0 -62px;
+}
+.flw .sp4 span {
+    width: 54px;
+    height: 33px;
+    background-position: -72px -89px;
+}
+.flw .sp5 span {
+    width: 52px;
+    height: 30px;
+    background-position: 0 -109px;
+}
+.flw .sp6 span {
+    width: 51px;
+    height: 21px;
+    background-position: -130px -89px;
+}
+/* 动画 */
+.fallani1 {
+    -webkit-animation:fallAni1 10s linear infinite;
+    animation:fallAni1 10s linear infinite;
+}
+.fallani2 {
+    -webkit-animation:fallAni2 10s linear infinite;
+    animation:fallAni2 10s linear infinite;
+}
+.fallani3 {
+    -webkit-animation:fallAni3 10s linear infinite;
+    animation:fallAni3 10s linear infinite;
+}
+@-webkit-keyframes fallAni1{
+    0%{-webkit-transform:rotateX(0) rotateY(0) rotateZ(0);}
+    100%{-webkit-transform:rotateX(0) rotateY(0) rotateZ(360deg);}
+}
+@keyframes fallAni1{
+    0%{transform:rotateX(0) rotateY(0) rotateZ(0);}
+    100%{transform:rotateX(0) rotateY(0) rotateZ(360deg);}
+}
+@-webkit-keyframes fallAni2{
+    0%{-webkit-transform:rotateX(0) rotateY(0) rotateZ(0);}
+    100%{-webkit-transform:rotateX(0) rotateY(60deg) rotateZ(360deg);}
+}
+@keyframes fallAni2{
+    0%{transform:rotateX(0) rotateY(0) rotateZ(0);}
+    100%{transform:rotateX(0) rotateY(60deg) rotateZ(360deg);}
+}
+@-webkit-keyframes fallAni3{
+    0%{-webkit-transform:rotateX(0) rotateY(0) rotateZ(0);}
+    100%{-webkit-transform:rotateX(60deg) rotateY(0) rotateZ(360deg);}
+}
+@keyframes fallAni3{
+    0%{transform:rotateX(0) rotateY(0) rotateZ(0);}
+    100%{transform:rotateX(60deg) rotateY(0) rotateZ(360deg);}
+}
+.part .move-up,.part .move-right {
+    opacity: 0;
+}
+.part.show .move-up {
+    -webkit-animation: moveUp .8s ease forwards;
+    animation: moveUp .8s ease forwards;
+}
+.part.show .move-right {
+    -webkit-animation: moveRight .5s ease forwards;
+    animation: moveRight .5s ease forwards;
+}
+.delay-dot1 {
+    animation-delay: .1s !important;
+    -webkit-animation-delay: .1s !important;
+}
+.delay-dot2 {
+    animation-delay: .2s !important;
+    -webkit-animation-delay: .2s !important;
+}
+.delay-dot3 {
+    animation-delay: .3s !important;
+    -webkit-animation-delay: .3s !important;
+}
+.delay-dot4 {
+    animation-delay: .4s !important;
+    -webkit-animation-delay: .4s !important;
+}
+.delay-dot5 {
+    animation-delay: .5s !important;
+    -webkit-animation-delay: .5s !important;
+}
+@keyframes moveUp {
+    0% {
+        transform: translateY(30px);
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@-webkit-keyframes moveUp {
+    0% {
+        -webkit-transform: translateY(30px);
+    }
+    100% {
+        -webkit-transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes moveRight {
+    0% {
+        transform: translateX(-30px);
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@-webkit-keyframes moveRight {
+    0% {
+        -webkit-transform: translateX(-30px);
+    }
+    100% {
+        -webkit-transform: translateY(0);
+        opacity: 1;
+    }
+}
+.scale-line {
+    animation: scaleLine .5s linear infinite alternate;
+    -webkit-animation: scaleLine .5s linear infinite alternate;
+}
+@keyframes scaleLine {
+    to {
+        transform: scale(1.1);
+    }
+}
+@-webkit-keyframes scaleLine {
+    to {
+        -webkit-transform: scale(1.1);
+    }
+}
+.moves-left {animation: movesLeft .5s ease-in-out infinite alternate;-webkit-animation: movesLeft .5s ease-in-out infinite alternate;}
+@keyframes movesLeft {
+    to {
+        transform: translateX(-10px);
+    }
+}
+@-webkit-keyframes movesLeft {
+    to {
+        -webkit-transform: translateX(-10px);
+    }
+}
+.moves-right {animation: movesRight .5s ease-in-out infinite alternate;-webkit-animation: movesRight .5s ease-in-out infinite alternate;}
+@keyframes movesRight {
+    to {
+        transform: translateX(10px);
+    }
+}
+@-webkit-keyframes movesRight {
+    to {
+        -webkit-transform: translateX(10px);
+    }
+}
+.tada {
+    animation: tada 4s both infinite;
+    -webkit-animation: tada 4s both infinite;
+}
+@keyframes tada {
+    0% {
+        transform: scaleX(1);
+    }
+    2.5%, 5% {
+        transform: scale3d(.9,.9,.9) rotate(-3deg);
+    }
+    7.5%, 12.5%, 17.5%, 22.5% {
+        transform: scale3d(1.1,1.1,1.1) rotate(3deg);
+    }
+    10%, 15%, 20% {
+        transform: scale3d(1.1,1.1,1.1) rotate(-3deg);
+    }
+    25%, 100% {
+        transform: scaleX(1);
+    }
+}
+@-webkit-keyframes tada {
+    0% {
+        -webkit-transform: scaleX(1);
+    }
+    2.5%, 5% {
+        -webkit-transform: scale3d(.9,.9,.9) rotate(-3deg);
+    }
+    7.5%, 12.5%, 17.5%, 22.5% {
+        -webkit-transform: scale3d(1.1,1.1,1.1) rotate(3deg);
+    }
+    10%, 15%, 20% {
+        -webkit-transform: scale3d(1.1,1.1,1.1) rotate(-3deg);
+    }
+    25%, 100% {
+        -webkit-transform: scaleX(1);
+    }
+}
