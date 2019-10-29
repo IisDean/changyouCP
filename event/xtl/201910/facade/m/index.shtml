@@ -1,0 +1,298 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>杳冥兮既暗 全新外观即将面世 -《新天龙八部》官方网站</title>
+    <meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,新门派，桃花影落，飞神剑，一柄箫中剑，爱恨生灭间" />
+    <meta name="description" content="《新天龙八部》桃花影落 飞神剑，一柄箫中剑，爱恨生灭间" />
+    <meta name="author" content="" />
+    <meta name="applicable-device" content="mobile">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta content="telephone=no" name="format-detection" />
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" />
+    <link type="text/css" rel="stylesheet" href="css/reset.css" />
+    <link type="text/css" rel="stylesheet" href="css/swiper.min.css" />
+    <link type="text/css" rel="stylesheet" href="css/index.css" />
+    <script>
+        //H5里跳转到PC
+        if(! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+            window.location = "../pc/index.shtml"+ location.search;
+        }
+    </script>
+    <script type="text/javascript">
+        //屏幕适应
+        (function (win, doc) {
+            if (!win.addEventListener) return;
+            function setFont() {
+                var html = document.documentElement;
+                var k =750;
+                html.style.fontSize = html.clientWidth / k * 100 + "px";
+            }
+            setFont();
+            setTimeout(function () {
+                setFont();
+            }, 300);
+            doc.addEventListener('DOMContentLoaded', setFont, false);
+            win.addEventListener('resize', setFont, false);
+            win.addEventListener('load', setFont, false);
+        })(window, document);
+    </script>
+</head>
+<body>
+<div class="wrapper" id="wrapper">
+    <!-- Swiper -->
+    <div class="swiper-container swiper-container-main">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide p-slide1 ani">
+                <div class="mid">
+                    <!-- logo -->
+                    <div class="absolute logo-icon"><img src="img/logo.png" alt="天龙logo"></div>
+                    <div class="pr title-icon animated vanishIn">
+                        <img src="img/p1_title.png" alt="标题">
+                        <div class="absolute play-btn video-btn0" data-src="http://files2.changyou.com/xtl/2019/1024/shizhuang1.mp4">
+                            <i class="icons play-cricle"></i>
+                            <i class="absolute icons play-icon"></i>
+                        </div>
+                    </div>
+                    <div class="pr person-icon">
+                        <img src="img/p1_person.png" alt="人物">
+                    </div>
+                    <!-- 翻页提示 -->
+                    <div class="absolute icons page-tips-icon"></div>
+                </div>
+            </div>
+            <div class="swiper-slide p-slide2">
+                <div class="mid">
+                    <!-- logo -->
+                    <div class="absolute logo-icon"><img src="img/logo.png" alt="天龙logo"></div>
+                    <div class="pr title-icon animated fadeInTop">
+                        <img src="img/p2_title.png" alt="标题">
+                    </div>
+                    <div class="pr person-icon animated slideInDown">
+                        <img src="img/p2_person.png" alt="人物">
+                        <ul class="absolute detail-list">
+                            <li class="absolute detail-item detail-item-1">
+                                <img src="img/p2_inset_1.png" alt="细节">
+                                <div class="absolute detail-node">
+                                    <i class="absolute icons node-icon scale-dot"></i>
+                                </div>
+                            </li>
+                            <li class="absolute detail-item detail-item-2">
+                                <img src="img/p2_inset_2.png" alt="细节">
+                                <div class="absolute detail-node">
+                                    <i class="absolute icons node-icon scale-dot"></i>
+                                </div>
+                            </li>
+                            <li class="absolute detail-item detail-item-3">
+                                <img src="img/p2_inset_3.png" alt="细节">
+                                <div class="absolute detail-node">
+                                    <i class="absolute icons node-icon scale-dot"></i>
+                                </div>
+                            </li>
+                            <li class="absolute detail-item detail-item-4">
+                                <img src="img/p2_inset_4.png" alt="细节">
+                                <div class="absolute detail-node">
+                                    <i class="absolute icons node-icon scale-dot"></i>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="pr text-plank-icon">
+                        <img src="img/p2_text_plank.png" alt="介绍">
+                    </div>
+                    <div class="text-center tips-wrap">
+                        <p class="pr text-center tips-text">【11月1日更新维护后将上架元宝商店】</p>
+                    </div>
+                    <div class="absolute icons page-tips-icon"></div>
+                </div>
+            </div>
+            <div class="swiper-slide p-slide3">
+                <div class="mid">
+                    <!-- logo -->
+                    <div class="absolute logo-icon"><img src="img/logo.png" alt="天龙logo"></div>
+                    <div class="pr title-icon animated bounceInLeftBig">
+                        <img src="img/p3_title.png" alt="标题">
+                    </div>
+                    <!--  -->
+                    <div class="flex person-container">
+                        <div class="person-wrap person-wrap1">
+                            <div class="pr person-icon">
+                                <img src="img/p3_person_1.png" alt="少侠正面">
+                                <img src="img/p3_person_2.png" alt="少侠正面">
+                            </div>
+                            <div class="icons tab-wrap tab-wrap-1 flex">
+                                <span class="flex-1">少侠正面</span>
+                                <span class="flex-1">少侠背面</span>
+                            </div>
+                        </div>
+                        <div class="person-wrap person-wrap1">
+                            <div class="pr person-icon">
+                                <img src="img/p3_person_3.png" alt="女侠正面">
+                                <img src="img/p3_person_4.png" alt="女侠正面">
+                            </div>
+                            <div class="icons tab-wrap tab-wrap-1 flex">
+                                <span class="flex-1">女侠正面</span>
+                                <span class="flex-1">女侠背面</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 全新形象 -->
+                    <div class="pr title-icon_sub animated bounceInLeftBig">
+                        <img src="img/p3_title_sub.png" alt="标题">
+                    </div>
+                    <div class="bg pr figuer-wrap">
+                        <div class="hd-wrap flex">
+                            <div class="hd-icon">
+                                <img src="img/hd2.jpg" alt="幽玄">
+                                <p class="hd-text text-center">幽玄</p>
+                            </div>
+                            <div class="hd-icon">
+                                <img src="img/hd1.jpg" alt="幽若">
+                                <p class="hd-text text-center">幽若</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center tips-wrap">
+                        <p class="pr text-center tips-text">【11月1日更新维护后将上架元宝商店】</p>
+                    </div>
+                    <div class="absolute icons page-tips-icon"></div>
+                </div>
+            </div>
+            <div class="swiper-slide p-slide4">
+                <div class="mid">
+                    <!-- logo -->
+                    <div class="absolute logo-icon"><img src="img/logo.png" alt="天龙logo"></div>
+                    <div class="pr title-icon  animated bounceInLeftBig">
+                        <img src="img/p4_title.png" alt="标题">
+                    </div>
+                    <div class="pr horse-icon">
+                        <img src="img/p4_horse.png" alt="马">
+                        <i class="icons absolute flower-icon1 animated fadeInLeft"></i>
+                        <i class="icons absolute flower-icon2 animated fadeInLeft"></i>
+                        <div class="absolute play-btn video-btn0" data-src="http://files2.changyou.com/xtl/2019/1024/ma1.mp4">
+                            <i class="icons play-cricle"></i>
+                            <i class="absolute icons play-icon"></i>
+                        </div>
+                        <i class="bg absolute cloud-icon"></i>
+                    </div>
+                    <div class="text-center tips-wrap">
+                        <p class="pr text-center tips-text">【获取方式：敬请期待】</p>
+                    </div>
+                    <div class="absolute icons page-tips-icon"></div>
+                </div>
+            </div>
+            <div class="swiper-slide p-slide5">
+                <div class="mid">
+                    <!-- logo -->
+                    <div class="absolute logo-icon"><img src="img/logo.png" alt="天龙logo"></div>
+                    <div class="pr title-icon animated bounceInLeftBig">
+                        <img src="img/p5_title.png" alt="标题">
+                    </div>
+                    <!-- 虚用/祭神 -->
+                    <div class="god-wrap">
+                        <div class="pr god-icon animated puffIn">
+                            <img src="img/p5_god_1.png" alt="虚祭神">
+                            <div class="absolute icons god-name-icon"></div>
+                        </div>
+                        <div class="pr god-icon animated puffIn" style="display: none;">
+                            <img src="img/p5_god_2.png" alt="虚祭神">
+                            <div class="absolute icons god-name-icon"></div>
+                        </div>
+                    </div>
+                    <div class="text-center tips-wrap">
+                        <p class="pr text-center tips-text">【获取方式：敬请期待】</p>
+                    </div>
+                    <div class="god-tab-wrap flex">
+                        <a class="icons tab-btn tab-btn-1 active"></a>
+                        <a class="icons tab-btn tab-btn-2"></a>
+                    </div>
+                    <div class="icons go-home-icon"></div>
+                </div>
+            </div>
+        </div>
+        <div class="m-pagination"></div>
+    </div>
+</div>
+
+<!-- 视频弹窗-->
+<div id="vbox1">
+    <i class="close">×</i>
+    <div class="video-wrap">
+        <p class="video-tips-text text-center">视频正在加载中</p>
+        <video src="" id="video" x5-playsinline="true" playsinline="" webkit-playsinline="" ></video>
+    </div>
+</div>
+<script type="text/javascript" src="js/zepto.min.js"></script>
+<script type="text/javascript" src="js/swiper.min.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script src="http://www.changyou.com/cyouFile/shareToWx/js/share.actv2.wx.js"></script>
+<script type="text/javascript" src="http://www.changyou.com/cyou_share/cyoushare.js"></script>
+<script type="text/javascript" src="http://www.cy.com/js/cy_public_dark.js"></script> <!-- H5底部-->
+<script type="text/javascript">
+    //弹窗
+    var popIsShow = false;
+    var popDom = null;
+    function popShow(id) {
+        popHide();
+        var p = $('#'+id);
+        popDom = p;
+        if (p) {
+            p.show().css({
+                position: 'fixed',
+                top: '50%',
+                left: '50%',
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+            p.attr('for', 'pop');
+            popIsShow = true;
+            if ($('[for="' + id + '"]').length >= 1) return;
+            $('body').append('<div name="overlay" for=' + id + ' style="width:100%;height:100%;position:fixed;top:0;left:0;z-index:997;background:rgba(0,0,0,0.8);"></div>');
+        }
+    }
+    function popHide() {
+        $('[for="pop"]').hide().attr('style', '');
+        $('[name="overlay"]').remove();
+    }
+    window.addEventListener("resize", function () {
+        if (!popIsShow)
+            return;
+        setTimeout(function () {
+            popDom.css({
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+        }, 400)
+    });
+
+    //弹出视频
+    var vbox1 = document.getElementById('vbox1');
+    vbox1.addEventListener("click", function(){
+        vbox1.style.display = "none";
+        document.getElementById("video").pause();
+    });
+    $('.video-btn0').click(function(){
+        var back = $(this).attr('data-src');
+        showVideoCycle2(back);
+    });
+    function showVideoCycle2(files2Url) {
+        vbox1.style.display = "block";
+        var video = $("#video").get(0);
+        video.src = files2Url;
+        video.play();
+    }
+    $(function() {
+        $('#vbox1').bind('touchmove', function(e) {
+            e.preventDefault();
+        });
+    });
+
+</script>
+<!--#include virtual="/all/dma/dma_static.html" -->  <!-- 监测代码文件碎片-->
+</body>
+</html>

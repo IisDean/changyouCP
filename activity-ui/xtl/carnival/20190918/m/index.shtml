@@ -43,7 +43,7 @@
     <div class="bg con con-1 part">
         <div class="bg title-icon move-right">
             <h2 class="hide">新门派桃花岛来袭</h2>
-            <ul class="absolute server-list flex">
+            <ul class="absolute server-list flex" style="display: none;">
                 <li class="server-item server-item-left move-right delay-dot5">
                     <i class="icons server-icon"></i>
                     <p class="text-center server-name-text">绝世双线<br/>|桃花影落 11月1日开服</p>

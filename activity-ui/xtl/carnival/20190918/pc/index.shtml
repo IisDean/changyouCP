@@ -27,7 +27,7 @@
             <div class="full-img title-icon move-right">
                 <img src="/act/xtl/carnival/20190918/pc/img/title.png" alt="标题">
                 <h1 class="hide">新门派 桃花岛来袭</h1>
-                <ul class="absolute server-list clearfix">
+                <ul class="absolute server-list clearfix" style="display: none;">
                     <li class="server-item server-item-left move-right delay-dot5 float-left">
                         <i class="icons server-icon"></i>
                         <p class="text-center server-name-text">绝世双线</br>|桃花影落 11月1日开服</p>
@@ -137,6 +137,7 @@
 <script src="/act/xtl/carnival/20190918/pc/js/swiper.min.js"></script>
 <script src="/act/xtl/carnival/20190918/pc/js/swiper.3dflow.js"></script>
 <script src="/act/all/cdn/popout/1.0/popout.min.js"></script>
+<script src="/act/all/cdn/template_js/0.7.1/template.min.js"></script>
 <script src="/act/all/cdn/join-activity/2.6/join-activity.min.js"></script>
 <script src="/act/xtl/carnival/20190918/pc/js/index.js"></script>
 <script>

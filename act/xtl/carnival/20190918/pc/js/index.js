@@ -54,13 +54,11 @@ $(function() {
     // 初始化
     function init() {
         $.get('/xtl/carnival/20190918/common/gift.json', function(res) {
-            $.getScript('/act/all/cdn/template_js/0.7.1/template.min.js', function() {
-                var eleHtml = template($('#PopList').html(), {
-                    imgBase: '/act/xtl/carnival/20190918/m/img/',
-                    arr: res
-                });
-                $('.gift_list').html(eleHtml);
-            })
+            var eleHtml = template($('#PopList').html(), {
+                imgBase: '/act/xtl/carnival/20190918/m/img/',
+                arr: res
+            });
+            $('.gift_list').html(eleHtml);
         })
     }
 
