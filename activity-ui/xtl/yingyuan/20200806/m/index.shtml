@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>拭剑天下巅峰赛应援 -《新天龙八部》官方网站</title>
+    <meta name="applicable-device" content="mobile">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,maximum-scale=1,viewport-fit=cover"/>
+    <meta name="format-detection" content="telephone=no" />
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta name="robots" content="all" />
+    <meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,金庸,MMO,天龙八部OL,萧峰,段誉,虚竹,王语嫣,天龙八部钟汉良版,天龙八部黄日华版,8周年,八周年,周年庆,全民代言,纵情四海," />
+    <meta name="description" content="《新天龙八部》全新版本纵情四海即将揭晓，亲朋好友齐聚江湖，多重夏季活动持续更新，暑期福利天天放送，热力引爆整个夏天！入驻新服，秒享多项特权；社交体系全面进化，让天龙成为你的生活方式，情燃七月，四海天下！" />
+    <meta name="author" content="Design:CP; Web Layout:CP;" />
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" />
+    <link href="/act/all/css/reset.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/yingyuan/20200806/m/css/cropper.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/yingyuan/20200806/m/css/global.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/yingyuan/20200806/m/css/index.css" />
+    <script>
+        var phoneWidth = parseInt(window.screen.width);
+        var phoneScale = phoneWidth / 750;
+        var ua = navigator.userAgent;
+        if (/Android (\d+\.\d+)/.test(ua)) {
+            var version = parseFloat(RegExp.$1);
+            // andriod 2.3
+            if (version > 2.3) {
+                document.write('<meta name="viewport" content="width=750, minimum-scale = ' + phoneScale + ', maximum-scale = ' + phoneScale + ', target-densitydpi=device-dpi">');
+                // andriod 2.3
+            } else {
+                document.write('<meta name="viewport" content="width=750, target-densitydpi=device-dpi">');
+            }
+        } else {
+            document.write('<meta name="viewport" content="width=750, user-scalable=no, target-densitydpi=device-dpi">');
+        }
+    </script>
+    <script type="text/javascript">
+        var deviceWidth = document.documentElement.clientWidth;
+        if(deviceWidth > 750){
+            deviceWidth = 750
+        };
+        document.documentElement.style.fontSize = deviceWidth / 7.5 + 'px';
+    </script>
+</head>
+<body ontouchstart=" ">
+<div class="stage">
+    <h1 class="hide">巅峰赛战队应援</h1>
+    <!-- 头部 -->
+    <div class="bg part part-1">
+        <a href="//m.tl.changyou.com/" class="pa full-img logo-icon">
+            <img src="/act/xtl/yingyuan/20200806/m/img/logo.png" alt="logo">
+        </a>
+        <div class="pa full-img time-wrap">
+            <img src="/act/xtl/yingyuan/20200806/m/img/hd_time.png" alt="时间">
+        </div>
+        <!--登录前-->
+        <div id="loginBox" class="pa login-wrap t-c">
+            您好，请先<a href="javascript: popShow('popLogin');" id="login" title="登录">【登录】</a>
+        </div>
+        <!--登录后-->
+        <div id="logoutBox" class="pa login-wrap t-c" style="display:none;">
+            <p>
+                欢迎您，<span id="userName"></span>，
+                <a href="javascript:;" title="个人中心" id="centerBtn">【个人中心】</a>
+                <a href="javascript:;" title="注销" id="logout">【注销】</a>
+            </p>
+        </div>
+    </div>
+    <!-- 攀登应援 -->
+    <div class="bg part part-2">
+        <h2 class="icons title-icon ti-2 t">攀登应援</h2>
+        <!-- 应援数据 -->
+        <div class="flex yy-data-container">
+            <ul class="pr data-left tier-list">
+                <li></li>
+                <li>
+                    <div class="pa icons yy-label active t-c">3万应援值</div>
+                </li>
+                <li>
+                    <div class="pa icons yy-label t-c">2万应援值</div>
+                </li>
+                <li>
+                    <div class="pa icons yy-label t-c">1万应援值</div>
+                </li>
+            </ul>
+            <ul class="flex data-charts-list">
+                <li class="item">
+                    <div class="pr pro-container">
+                        <div class="pr bg pro-bg">
+                            <!-- 进度条 -->
+                            <div class="pa bg pro-con" style="height: 25%;"></div>
+                        </div>
+                        <div class="pa flex flex-center flex-middle icons data-label t-c" style="bottom: 25%;"><p>16547<br/>次助力</p></div>
+                        <i class="pa bg pro-inset"></i>
+                    </div>
+                    <p class="zd-name-text t-c">天龙八部<br/>三组战队</p>
+                </li>
+                <li class="item">
+                    <div class="pr pro-container">
+                        <div class="pr bg pro-bg">
+                            <!-- 进度条 -->
+                            <div class="pa bg pro-con" style="height: 65%;"></div>
+                        </div>
+                        <div class="pa flex flex-center flex-middle icons data-label t-c" style="bottom: 65%;"><p>29338<br/>次助力</p></div>
+                        <i class="pa bg pro-inset"></i>
+                    </div>
+                    <p class="zd-name-text t-c">天龙八部<br/>三组战队</p>
+                </li>
+                <li class="item">
+                    <div class="pr pro-container">
+                        <div class="pr bg pro-bg">
+                            <!-- 进度条 -->
+                            <div class="pa bg pro-con" style="height: 60%;"></div>
+                        </div>
+                        <div class="pa flex flex-center flex-middle icons data-label t-c" style="bottom: 60%;"><p>26114<br/>次助力</p></div>
+                        <i class="pa bg pro-inset"></i>
+                    </div>
+                    <p class="zd-name-text t-c">天龙八部<br/>三组战队</p>
+                </li>
+                <li class="item">
+                    <div class="pr pro-container">
+                        <div class="pr bg pro-bg">
+                            <!-- 进度条 -->
+                            <div class="pa bg pro-con" style="height: 55%;"></div>
+                        </div>
+                        <div class="pa flex flex-center flex-middle icons data-label t-c" style="bottom: 55%;"><p>25334<br/>次助力</p></div>
+                        <i class="pa bg pro-inset"></i>
+                    </div>
+                    <p class="zd-name-text t-c">天龙八部<br/>三组战队</p>
+                </li>
+            </ul>
+            <ul class="flex-1 data-right tier-list">
+                <li>
+                    <div class="bg gift-wrap" onclick="popShow('popGift2');">
+                        <p class="gift-name-text t-c">山顶礼包</p>
+                    </div>
+                    <a href="javascript: popShow('popLqsb1');" class="icons btn-get-prize btn-hover t">点击领取</a>
+                </li>
+                <li>
+                    <div class="bg gift-wrap" onclick="popShow('popGift3');">
+                        <p class="gift-name-text t-c">山脊礼包</p>
+                    </div>
+                    <a href="javascript: popShow('popLqsb1');" class="icons btn-get-prize btn-hover t">点击领取</a>
+                </li>
+                <li>
+                    <div class="bg gift-wrap" onclick="popShow('popGift4');">
+                        <p class="gift-name-text t-c">山腰礼包</p>
+                    </div>
+                    <a href="javascript: popShow('popHdlb');" class="icons btn-get-prize btn-hover t">点击领取</a>
+                </li>
+                <li>
+                    <div class="bg gift-wrap" onclick="popShow('popGift5');">
+                        <p class="gift-name-text t-c">山脚礼包</p>
+                    </div>
+                    <a href="javascript: popShow('popHdlb');" class="icons btn-get-prize btn-hover t">点击领取</a>
+                </li>
+            </ul>
+        </div>
+        <!-- 应援助力 -->
+        <a href="javascript: popShow('popXzzd');" class="icons btn-yyzl btn-hover t">应援助力</a>
+        <p class="yycs-tips-text t-c">当前应援次数：<span>XX</span> 次</p>
+    </div>
+    <div class="bg part part-3">
+        <h2 class="icons title-icon ti-3 t">登顶奖励</h2>
+        <div class="flex flex-center prize-container">
+            <div class="item">
+                <h4 class="icons title-prize t-c">TOP1人气登顶战队</h4>
+                <!-- 战队徽章 -->
+                <div class="bg full-img zd-plank">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/zd_0.png" alt="虚位以待">
+                </div>
+                <p class="zd-name-text t-c">天龙八部的战队</p>
+            </div>
+            <div class="item">
+                <h4 class="icons title-prize t-c">TOP1登顶巅峰礼包</h4>
+                <div class="full-img gift-wrap" onclick="popShow('popGift1');">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/p3_gift.png" alt="巅峰礼包">
+                </div>
+                <a href="javascript: popShow('popHdlb');" class="icons btn-get-df btn-hover t">点击领取</a>
+            </div>
+        </div>
+    </div>
+    <div class="bg part part-4">
+        <h2 class="icons title-icon ti-4 t">应援礼包领取条件</h2>
+        <table class="bg table-wrap t-c">
+            <tr>
+                <td>山脚礼包</td>
+                <td>成功选择应援战队<br/>并对该战队应援助力<span class="red">一次</span></td>
+            </tr>
+            <tr>
+                <td>山腰礼包</td>
+                <td>对同一战队总应援次数达到<span class="red">五次</span><br/>且该战队获得总应援值达到山腰区域</td>
+            </tr>
+            <tr>
+                <td>山脊礼包</td>
+                <td>对同一战队总应援次数达到<span class="red">七次</span><br/>且该战队获得总应援值达到山脊区域</td>
+            </tr>
+            <tr>
+                <td>山顶礼包</td>
+                <td>对同一战队总应援次数达到<span class="red">十次</span><br/>且该战队获得总应援值达到山顶区域</td>
+            </tr>
+            <tr>
+                <td>登顶巅峰礼包</td>
+                <td>对同一战队总应援次数达到<span class="red">五次</span><br/>且活动结束时该战队总应援值排行第一</td>
+            </tr>
+        </table>
+        <p class="tj-tips-text t-c">注:玩家只能选择一支战队进行应援，<br/>活动期间选择战队后将无法更换应援战队。</p>
+    </div>
+</div>
+
+<!-- 弹窗 登录 -->
+<div class="pop bg pop-1" id="popLogin">
+    <div class="pop-con">
+        <h3 class="icons pop-title-login t">请选择登录方式</h3>
+        <ul class="flex login-list t-c">
+            <li class="flex-1">
+                <p class="login-title-text">已绑定微信入口</p>
+                <a href="javascript: ;" class="full-img login-icon btn-hover">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/icon_wx.png" alt="微信">
+                </a>
+                <!-- 去绑定 -->
+                <a href="javascript: alert('敬请期待！');" class="icons btn-to-bind btn-hover t">立即前往绑定</a>
+                <!-- 已绑定 -->
+                <!-- <p class="login-msg-text c2 t-c">abc@changyou.com<br/>已绑定</p> -->
+            </li>
+            <li class="flex-1">
+                <p class="login-title-text">未绑定微信入口</p>
+                <a href="javascript: ;" class="full-img login-icon btn-hover">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/icon_cy.png" alt="畅游">
+                </a>
+                <p class="login-msg-text t-c">未在微信绑定过畅游<br/>账号的玩家可以在此登录</p>
+            </li>
+        </ul>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 账号下最高等级角色<30级 -->
+<div class="pop bg pop-2" id="popDjbg">
+    <div class="pop-con">
+        <h3 class="icons pop-title-djbg t">账号下最高等级角色</h3>
+        <p class="pop-msg-text t-c" style="margin-top: 30px;">请先升级至30级或更换账号,<br/>再来参与活动吧！~</p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 您的账号已停权 -->
+<div class="pop bg pop-2" id="popTq">
+    <div class="pop-con">
+        <h3 class="icons pop-title-tq t">您的账号已停权</h3>
+        <p class="pop-msg-text t-c" style="margin-top: 30px;">请您更换参与活动的账号,<br/>或解权本账号后再来参与活动~</p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 应援助力成功 -->
+<div class="pop bg pop-2" id="popZlcg">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 78px;">应援助力成功,<br/>天龙八部的八部战队<span class="red">应援值+1</span></p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 应援助力失败 -->
+<div class="pop bg pop-2" id="popZlsb">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 78px;">应援助力失败,<br/>您今日已经应援过了，请明天再来吧。</p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 恭喜您获得xx礼包 -->
+<div class="pop bg pop-2" id="popHdlb">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 78px;">恭喜您获得<span>“XXXXXX礼包”</span><br/>请前往<span class="red">大理龚彩云（172，122）</span>处领取奖励</p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 礼包领取失败 所支持战队尚未满足领取条件 -->
+<div class="pop bg pop-2" id="popLqsb1">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 78px;">礼包领取失败，<br/>您所支持的战队尚未满足礼包领取条件</p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 请选择你支持的战队 -->
+<div class="pop bg pop-3" id="popXzzd">
+    <div class="pop-con">
+        <h3 class="icons pop-title-xzzd t">请选择你支持的战队</h3>
+        <p class="pop-tips-text t-c" style="margin-top: 7px;">*支持战队选择完成后不可更改，请谨慎选择</p>
+        <!-- 战队列表 -->
+        <ul class="flex flex-center select-zd-list">
+            <li class="active">
+                <div class="bg full-img zd-plank">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/zd_emei.png" alt="">
+                </div>
+                <p class="zd-name-text t-c">天龙八部的战队</p>
+            </li>
+            <li>
+                <div class="bg full-img zd-plank">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/zd_xiaoyao.png" alt="">
+                </div>
+                <p class="zd-name-text t-c">天龙八部的战队</p>
+            </li>
+            <li>
+                <div class="bg full-img zd-plank">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/zd_wudang.png" alt="">
+                </div>
+                <p class="zd-name-text t-c">天龙八部的战队</p>
+            </li>
+            <li>
+                <div class="bg full-img zd-plank">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/zd_murong.png" alt="">
+                </div>
+                <p class="zd-name-text t-c">天龙八部的战队</p>
+            </li>
+        </ul>
+        <!-- 按钮 -->
+        <div class="flex flex-center">
+            <a href="javascript: popShow('popZlcg');" class="icons btn-confirm-sz btn-hover t">确认选择</a>
+            <a href="javascript: popHide();" class="icons btn-wzxx btn-hover t">我再想想</a>
+        </div>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 领取xxx礼包失败 -->
+<div class="pop bg pop-2" id="popLqsb2">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 78px;">领取什么什么是什么礼包失败，<br/>您的应援次数未满足礼包领取条件1次。</p>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 登顶巅峰礼包 -->
+<div class="pop bg pop-4" id="popGift1">
+    <div class="pop-con">
+        <h3 class="icons pop-title-gift1 t">登顶巅峰礼包</h3>
+        <p class="pop-tips-text t-c" style="margin-top: 7px;"><span class="red">应援五次</span>+战队总应援值达到山脚阶段</p>
+        <div class="icons pop-label t-c">内含奖励</div>
+        <ul class="flex flex-center prize-list">
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_1.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">天马（30天）*1</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_2.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">时装:藤花正晓晴(永久)*1</p>
+            </li>
+            <li class="bg prize-item" style="margin: 26px 50px 0;">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_3.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">珍品心决集录*1</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_4.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">离火*20</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_5.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">精金石*50</p>
+            </li>
+        </ul>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 山顶礼包 -->
+<div class="pop bg pop-5" id="popGift2">
+    <div class="pop-con">
+        <h3 class="icons pop-title-gift2 t">山顶礼包</h3>
+        <p class="pop-tips-text t-c" style="margin-top: 7px;"><span class="red">应援十次</span>+战队总应援值达到山脚阶段</p>
+        <div class="icons pop-label t-c">内含奖励</div>
+        <ul class="flex flex-center prize-list">
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_1.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">天马（30天）*1</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_2.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">时装:藤花正晓晴(30天)*1</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_4.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">离火*60</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_5.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">精金石*30</p>
+            </li>
+        </ul>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 山脊礼包 -->
+<div class="pop bg pop-5" id="popGift3">
+    <div class="pop-con">
+        <h3 class="icons pop-title-gift3 t">山脊礼包</h3>
+        <p class="pop-tips-text t-c" style="margin-top: 7px;"><span class="red">应援七次</span>+战队总应援值达到山脚阶段</p>
+        <div class="icons pop-label t-c">内含奖励</div>
+        <ul class="flex flex-center prize-list">
+            <li class="bg prize-item" style="margin: 26px 50px 0;">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_2.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">时装:藤花正晓晴(30天)*1</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_4.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">离火*40</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_5.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">精金石*20</p>
+            </li>
+        </ul>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 山腰礼包 -->
+<div class="pop bg pop-1" id="popGift4">
+    <div class="pop-con">
+        <h3 class="icons pop-title-gift4 t">山腰礼包</h3>
+        <p class="pop-tips-text t-c" style="margin-top: 7px;"><span class="red">应援五次</span>+战队总应援值达到山腰阶段</p>
+        <div class="icons pop-label t-c">内含奖励</div>
+        <ul class="flex flex-center prize-list">
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_4.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">离火*20</p>
+            </li>
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_5.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">精金石*20</p>
+            </li>
+        </ul>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+<!-- 弹窗 山脚礼包 -->
+<div class="pop bg pop-1" id="popGift5">
+    <div class="pop-con">
+        <h3 class="icons pop-title-gift5 t">山脚礼包</h3>
+        <p class="pop-tips-text t-c" style="margin-top: 7px;"><span class="red">应援一次</span>+战队总应援值达到山脚阶段</p>
+        <div class="icons pop-label t-c">内含奖励</div>
+        <ul class="flex flex-center prize-list">
+            <li class="bg prize-item">
+                <div class="full-img prize-img">
+                    <img src="/act/xtl/yingyuan/20200806/m/img/prize_4.png" alt="奖品">
+                </div>
+                <p class="prize-name-text t-c t-hide">离火*10</p>
+            </li>
+        </ul>
+    </div>
+    <a href="javascript: popHide();" class="pa icons btn-close t">关闭</a>
+</div>
+
+
+<script src="/act/all/js/jquery-1.8.3.min.js"></script>
+<script src="/js/join-activity-1.0.0.js"></script>
+<script src="/act/xtl/yingyuan/20200806/m/js/index.js"></script>
+<script>
+    // popShow('popGift5');
+    //pop
+    var popIsShow = false;
+    var popDom = null;
+    function popShow(id) {
+        popHide();
+        var p = $('#'+id);
+        popDom = p;
+        console.log(popDom.width());
+        if (p) {
+            p.show().css({
+                position: 'fixed',
+                top: '50%',
+                left: '50%',
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+            p.attr('for', 'pop');
+            popIsShow = true;
+            if ($('[for="' + id + '"]').length >= 1) return;
+            $('body').append('<div name="overlay" for=' + id + ' style="width:100%;height:100%;position:fixed;top:0;left:0;z-index:997;background:rgba(0,0,0,0.8);"></div>');
+        }
+    }
+    function popHide() {
+        $('[for="pop"]').hide().attr('style', '');
+        $('[name="overlay"]').remove();
+    }
+    window.addEventListener("resize", function () {
+        if (!popIsShow)
+            return;
+        setTimeout(function () {
+            popDom.css({
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+        }, 400)
+    });
+
+    // if(!/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    //     window.location.href = "../pc/index.shtml";
+    // }
+</script>
+<!--#include virtual="/all/dma/dma_activity.html"-->
+</body>
+</html>

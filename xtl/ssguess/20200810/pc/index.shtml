@@ -1,0 +1,293 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,金庸,MMO,天龙八部OL,萧峰,段誉,虚竹,王语嫣,天龙八部钟汉良版,天龙八部黄日华版,8周年,八周年,周年庆,全民代言,纵情四海," />
+    <meta name="description" content="《新天龙八部》全新版本纵情四海即将揭晓，亲朋好友齐聚江湖，多重夏季活动持续更新，暑期福利天天放送，热力引爆整个夏天！入驻新服，秒享多项特权；社交体系全面进化，让天龙成为你的生活方式，情燃七月，四海天下！" />
+    <meta name="author" content="Design:CP; Web Layout:CP;" />
+    <title>巅峰赛事竞猜 -《新天龙八部》官方网站</title>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" />
+    <link href="/act/all/css/reset.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/ssguess/20200810/pc/css/global.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/ssguess/20200810/pc/css/index.css" />
+</head>
+<body>
+<h1 class="hide">巅峰赛事竞猜</h1>
+<div class="p-r stage">
+    <div class="part part-head">
+        <div class="wrap">
+            <a href="//tl.changyou.com/" target="_blank" class="p-a full-img logo-icon btn-hover">
+                <img src="/act/xtl/ssguess/20200810/pc/img/logo.png" alt="logo">
+            </a>
+            <!-- 按钮 -->
+            <div class="btn-container t-c">
+                <a href="index.shtml" class="icons btn-cut btn-cut-1 active btn-hover">
+                    <h3 class="hide">冠军竞猜</h3>
+                    <p>（9月24日—10月10日）</p>
+                </a>
+                <a href="yuxuan.shtml" class="icons btn-cut btn-cut-2 btn-hover">
+                    <h3 class="hide">预选赛竞猜</h3>
+                    <p>（9月24日—9月26日）</p>
+                </a>
+                <a href="banjue.shtml" class="icons btn-cut btn-cut-3 btn-hover">
+                    <h3 class="hide">半决赛竞猜</h3>
+                    <p>（9月30日—10月9日）</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="part part-1-2">
+        <div class="wrap">
+            <div class="icons title-icon t-i-1 t-c">
+                <h2>冠军竞猜</h2>
+            </div>
+            <ul class="bg rule-plank">
+                <li class="clearfix">
+                    <div class="f-l icons rule-title t-c">竞猜规则</div>
+                    <div class="f-l rule-msg-text">9月24日-10月10日巅峰赛决赛比赛前2个小时您可参与本轮次竞猜，您可以在下方的20支战队排列区中，选出一支您认为最终会获得冠军的队伍，每个账号限选一次。</div>
+                </li>
+                <li class="clearfix">
+                    <div class="f-l icons rule-title t-c">xx币获取</div>
+                    <div class="f-l rule-msg-text">在赛事的不同阶段参与冠军竞猜且猜中冠军，可获得不同数量的XX币，预选赛前（9月24日-9月26日）参与竞猜且猜中得400枚XX币，半决赛前（9月27日-10月9日）参与竞猜且猜中得200枚XX币，决赛前（10月10日-总决赛开启两小时前）参与竞猜且猜中得100枚XX币。若猜错冠军队伍，可获得50枚XX币的参与奖励。本轮竞猜的XX币，将于冠军竞猜结束后统一进行结算。</div>
+                </li>
+                <li class="clearfix">
+                    <div class="f-l icons rule-title t-c">奖励兑换时间</div>
+                    <div class="f-l rule-msg-text">2020年10月20日24：00前，您可使用您的XX币，于页面下方奖励兑换处兑换相应的奖励。请按时兑换领取，如因逾期未兑换领取奖励导致的XX币过期等问题，官方将不承担任何责任。</div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="part part-1-3">
+        <div class="wrap">
+            <div class="icons title-icon t-i-2 t-c">
+                <h2>竞猜选项：谁能取得最后的冠军？</h2>
+            </div>
+            <ul class="zdjc-list t-c">
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+                <li class="icons">战队名字</li>
+            </ul>
+            <a href="javascript: ;" class="icons btn-confirm-xz btn-hover t">确认选择</a>
+            <div class="icons title-icon t-i-3 t-c" style="margin-top: 100px;">
+                <h2>xx币兑换</h2>
+            </div>
+            <div class="p-r">
+                <div class="bg num-plank1 t-c">您当前的XX（代币名称）币数量：<span>X</span>个</div>
+                <a href="javascript: popShow('pop9');" class="p-a btn-record-jl">兑换记录</a>
+            </div>
+            <ul class="record-list t-c">
+                <li>
+                    <div class="bg full-img prize-wrap"><img src="" alt=""></div>
+                    <a href="javascript: popShow('pop6');" class="icons btn-record btn-hover t"></a>
+                </li>
+                <li>
+                    <div class="bg full-img prize-wrap"><img src="" alt=""></div>
+                    <a href="javascript: popShow('pop8');" class="icons btn-record btn-hover t"></a>
+                </li>
+                <li>
+                    <div class="bg full-img prize-wrap"><img src="" alt=""></div>
+                    <a href="javascript: popShow('pop7');" class="icons btn-record btn-hover t"></a>
+                </li>
+                <li>
+                    <div class="bg full-img prize-wrap"><img src="" alt=""></div>
+                    <a href="javascript: popShow('pop6');" class="icons btn-record btn-hover t"></a>
+                </li>
+                <li>
+                    <div class="bg full-img prize-wrap"><img src="" alt=""></div>
+                    <a href="javascript: popShow('pop7');" class="icons btn-record btn-hover t"></a>
+                </li>
+                <li>
+                    <div class="bg full-img prize-wrap"><img src="" alt=""></div>
+                    <a href="javascript: popShow('pop8');" class="icons btn-record btn-hover t"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="part part-1-4">
+        <div class="wrap">
+            <div class="icons title-icon t-i-1 t-c">
+                <h2>FAQ</h2>
+            </div>
+            <div class="bg faq-wrap">
+                <p class="w-text">Q：参与本次赛事竞猜的条件是什么？</p>
+                <p class="d-text">A：参与本次赛事竞猜，只需要您的账号下有一个角色，且账号没有被封停。</p>
+                <p class="w-text">Q：本次赛事共有几轮竞猜？每轮竞猜投注截止时间是什么时候？</p>
+                <p class="d-text">A：本次赛事共有5轮竞猜，分别是【冠军竞猜】、【预选赛竞猜】、【半决赛竞猜】。【冠军竞猜】的投注截止时间为总决赛正式开始前的两小时，【预选赛竞猜】的截止时间为所有预选赛比赛开始前的两小时、【半决赛竞猜】的截止时间为该轮比赛开始前的两小时。</p>
+                <p class="w-text">Q：我通过竞猜获得的XX币什么时候给我结算？</p>
+                <p class="d-text">A：【冠军竞猜】的XX币奖励在本次赛事结束后统一结算，【预选赛竞猜】将在所有预选赛比赛结束后的次日12：00进行结算，【半决赛竞猜】将在当天最晚比赛结束后的次日12：00进行结算。如遇重赛等特殊情况，将在重赛结束后进行XX币结算。</p>
+                <p class="w-text">Q：我用XX币兑换了奖励，怎么领取我兑换的奖励？</p>
+                <p class="d-text">A：如您已经在活动页面上兑换奖励，请使用参与竞猜的账号下任意一角色在游戏中前往大理龚彩云（172，172）处领取。</p>
+                <p class="w-text">Q：我的奖励怎么没有到账？</p>
+                <p class="d-text">A：由于数据同步存在延迟时间，请于页面兑换后的30分钟后再去游戏中领取。若30分钟后奖励未到账情况依然存在，请联系游戏客服。</p>
+                <p class="w-text">Q：这次可以兑换的奖励都是绑定的吗？</p>
+                <p class="d-text">A：是的，本次赛事兑换的奖励均为拾取绑定，而且称号“神机妙算料巅峰”（60天）每个角色只能领取一次。</p>
+                <p class="w-text">Q：为什么我参与了冠军竞猜，还猜对了，但是只获得了50个XX币？</p>
+                <p class="d-text">A：冠军竞猜参与的时间不同，难度系数不同，获得的XX币数量也不同，可详细阅读冠军竞猜积分规则。</p>
+                <p class="w-text">Q：我要怎么查看我的兑奖记录？</p>
+                <p class="d-text">A：您可以点击“XX币兑礼”板块中的“兑奖记录”按钮查看自己的兑奖明细情况。</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 弹窗 您的账号已停权 -->
+<div class="pop bg pop-1" id="pop1">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 46px;">您的账号已停权</p>
+        <p class="pop-tips-text t-c">请您更换参与活动的账号<br/>或解权本账号后再来参与活动~</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 您未选择要竞猜的战队 -->
+<div class="pop bg pop-1" id="pop2">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 62px;">您未选择要竞猜的战队，请返回<br/>页面继续选择！</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 是否确认您的选择？ -->
+<div class="pop bg pop-2" id="pop3">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 56px;">是否确认您的选择？</p>
+        <p class="pop-tips-text t-c">(确认选择后不可更改)</p>
+        <div class="btn-container t-c">
+            <a href="javascript: popShow('pop5');" class="icons btn-confirm-xz2 btn-hover t">确认选择</a>
+            <a href="javascript: popHide();" class="icons btn-wzxx btn-hover t">我再想想</a>
+        </div>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 您未选择满4支出线战队 -->
+<div class="pop bg pop-1" id="pop4">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 62px;">您未选择满4支出线战队，请返回<br/>页面继续选择！</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 您已成功完成本次竞猜 -->
+<div class="pop bg pop-1" id="pop5">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 72px;">您已成功完成本次竞猜</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 奖励兑换成功 -->
+<div class="pop bg pop-1" id="pop6">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 54px;">奖励兑换成功</p>
+        <p class="pop-tips-text t-c">请前往大理龚彩云（172.122）处领取奖励</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 您的xx币不足 -->
+<div class="pop bg pop-1" id="pop7">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 56px;">您的xx币不足,请参加竞猜获取<br/>xx币吧！</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 已超出兑换上限 -->
+<div class="pop bg pop-1" id="pop8">
+    <div class="pop-con">
+        <p class="pop-msg-text t-c" style="margin-top: 56px;">已超出该物品兑换上限,兑换别的<br/>奖励看看吧！</p>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+<!-- 弹窗 兑换记录 -->
+<div class="pop bg pop-3" id="pop9">
+    <div class="pop-con">
+        <table class="record-table t-c">
+            <thead>
+                <tr>
+                    <th><p class="pop-msg-text t-c">兑换时间</p></th>
+                    <th><p class="pop-msg-text t-c">兑换物品</p></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2020.08.10</td>
+                    <td>xxxxxxxx</td>
+                </tr>
+                <tr>
+                    <td>2020.08.10</td>
+                    <td>xxxxxxxx</td>
+                </tr>
+                <tr>
+                    <td>2020.08.10</td>
+                    <td>xxxxxxxx</td>
+                </tr>
+                <tr>
+                    <td>2020.08.10</td>
+                    <td>xxxxxxxx</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="page-container t-c">
+            <a href="javascript: alert('敬请期待！');" class="btn-prev">上一页</a>
+            <span class="page-num-text">1/5</span>
+            <a href="javascript: alert('敬请期待！');" class="btn-next">下一页</a>
+        </div>
+    </div>
+    <a href="javascript: popHide();" class="p-a icons btn-close btn-hover t">关闭</a>
+</div>
+
+<script src="/act/all/js/jquery-1.8.3.min.js"></script>
+<script src="/act/xtl/ssguess/20200810/pc/js/index.js"></script>
+<script>
+
+    //pop
+    var popIsShow = false;
+    var popDom = null;
+    function popShow(id) {
+        popHide();
+        var p = $('#'+id);
+        popDom = p;
+        console.log(popDom.width());
+        if (p) {
+            p.show().css({
+                position: 'fixed',
+                top: '50%',
+                left: '50%',
+                marginTop: -popDom.height() / 2 + 'px',
+                marginLeft: -popDom.width() / 2 + 'px',
+                zIndex: 998
+            });
+            p.attr('for', 'pop');
+            popIsShow = true;
+            if ($('[for="' + id + '"]').length >= 1) return;
+            $('body').append('<div name="overlay" for=' + id + ' style="width:100%;height:100%;position:fixed;top:0;left:0;z-index:997;opacity: 0.8;background-color: #000;"></div>');
+        }
+    }
+    function popHide() {
+        $('[for="pop"]').hide().attr('style', '');
+        $('[name="overlay"]').remove();
+    }
+
+    // (function() {
+    //     if(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)){var a=document.referrer,b={"baidu.com":"seo_baidu","sogou.com":"seo_sogou","sm.cn":"seo_sm","so.com":"seo_360","bing.com":"seo_bing","google.com":"seo_google"},c;for(c in b){if(-1!=a.indexOf(c)){a=b[c];if(window.sessionStorage){sessionStorage.setItem("channel",a)}else{var d=d||0,b="";0!=d&&(b=new Date,b.setTime(b.getTime()+1000*d),b="; expires="+b.toGMTString());document.cookie="channel="+escape(a)+b+"; path=/"}break}}window.location.href="../m/index.shtml"};
+    // })();
+</script>
+<!--#include virtual="/all/nav/xtl_dark.html"-->
+<!--#include virtual="/all/dma/dma_activity.html"-->
+</body>
+</html>

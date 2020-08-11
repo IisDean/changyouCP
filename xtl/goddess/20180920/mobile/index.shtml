@@ -1,0 +1,615 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>女神召集令-《新天龙八部》官方网站</title>
+<meta name="applicable-device" content="mobile">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,maximum-scale=1,viewport-fit=cover"/>
+<meta name="format-detection" content="telephone=no" />
+<meta content="yes" name="mobile-web-app-capable">
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta name="robots" content="all" />
+<meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,金庸,MMO,天龙八部OL,萧峰,段誉,虚竹,王语嫣,天龙八部钟汉良版,天龙八部黄日华版,8周年,八周年,周年庆,全民代言,纵情四海," />
+<meta name="description" content="《新天龙八部》全新版本纵情四海即将揭晓，亲朋好友齐聚江湖，多重夏季活动持续更新，暑期福利天天放送，热力引爆整个夏天！入驻新服，秒享多项特权；社交体系全面进化，让天龙成为你的生活方式，情燃七月，四海天下！" />
+<meta name="author" content="Design:CP; Web Layout:CP;" />
+<link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+<link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" /> 
+<link type="text/css" rel="stylesheet" href="http://tl.changyou.com/css/reset.css" />
+<link type="text/css" rel="stylesheet" href="/act/xtl/goddess/20180920/mobile/css/swiper.min.css" />
+<link type="text/css" rel="stylesheet" href="/act/xtl/goddess/20180920/mobile/css/cropper.css" />
+<link type="text/css" rel="stylesheet" href="/act/xtl/goddess/20180920/mobile/css/global.css" />
+<script>
+	!function () { var pageWid = 640; function a() { document.documentElement.style.fontSize = document.documentElement.clientWidth / pageWid * 10 / 16 * 1000 + "%" } var b = null; window.addEventListener("resize", function () { clearTimeout(b); b = setTimeout(a, 100) }, !1); a() }(window);
+</script>
+
+</head>
+<body>
+<div class="cont1-bg">
+	<div class="cont1 mid">
+		<div class="xtl_logo_lk">
+			<a href="http://m.tl.changyou.com/" title="《新天龙八部》官方网站" target="_blank"></a>
+		</div>
+		<div class="xtl_logo_bg"></div>
+		<a href="javascript:;" class="attest comm hv" title="我要认证"></a>
+		<div class="login">
+			<p id="loginUp">亲爱的用户， 请【<a href="javascript:loginShow();">登录</a>】</p>
+			<p id="loginOut" style="display:none;">欢迎您：<span id="loginName"></span><a href="javascript:;" id="thisCenter">【个人中心】</a><a href="javascript:ja.logout();">【注销】</a></p>
+		</div>
+	</div>
+</div>
+
+<div class="cont2-bg bg">
+	<div class="cont2 mid">
+	</div>
+</div>
+
+<div class="cont3-bg bg">
+	<div class="cont3 mid">
+		<div class="product-top">
+			<a href="javascript:;" class="product-rad" id="advancedRank">
+				<span class="pro-rad comm"></span>编号排序
+			</a>
+			<span>输入编号</span>
+			<div class="product-soso">
+				<input type="" name="" id="advancedInput" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')" />
+				<a href="javascript:;" id="advancedSoso">搜索</a>
+			</div>
+		</div>
+		<div class="product">
+			<ul id="advanced">
+				<!--
+				<li>
+					<img src="img/cont1.jpg" />
+					<p>角色名：xzxxx</p>
+					<span class="comm">编号12523</span>
+					<a href="javascript:;" class="pro-play comm" title="播放视频">播放视频</a>
+				</li>
+				-->
+			</ul>
+		</div>
+		<div class="product-page" id="advancedPage">
+			<!--
+			<a href="javascript:;">首页</a>
+			<a href="javascript:;">上一页</a>
+			<a href="javascript:;">1</a>
+			<a href="javascript:;">2</a>
+			<a href="javascript:;">3</a>
+			<a href="javascript:;">4</a>
+			<a href="javascript:;">5</a>
+			<span>...</span>
+			<a href="javascript:;">下一页</a>
+			<a href="javascript:;">页尾</a>
+			-->
+		</div>
+	</div>
+</div>
+
+<div class="cont4-bg bg">
+	<div class="cont4 mid">
+		<div class="product-top">
+			<a href="javascript:;" class="product-rad" id="primaryRank">
+				<span class="pro-rad comm"></span>编号排序
+			</a>
+			<span>输入编号</span>
+			<div class="product-soso">
+				<input type="" name=""  onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')" id="primaryInput"/>
+				<a href="javascript:;" id="primarySoso">搜索</a>
+			</div>
+		</div>
+		<div class="product">
+			<ul id="primary">
+				<!--
+				<li>
+					<img src="img/cont1.jpg" />
+					<p>角色名：xzxxx</p>
+					<span class="comm">编号12523</span>
+					<a href="javascript:;" class="pro-play comm" title="播放视频">播放视频</a>
+				</li>
+				-->
+			</ul>
+		</div>
+		<div class="product-page" id="primaryPage">
+			<!--
+			<a href="javascript:;">首页</a>
+			<a href="javascript:;">上一页</a>
+			<a href="javascript:;">1</a>
+			<a href="javascript:;">2</a>
+			<a href="javascript:;">3</a>
+			<a href="javascript:;">4</a>
+			<a href="javascript:;">5</a>
+			<span>...</span>
+			<a href="javascript:;">下一页</a>
+			<a href="javascript:;">页尾</a>
+			-->
+		</div>
+	</div>
+</div>
+
+<div class="cont5-bg bg">
+	<div class="cont5 mid">
+		<div class="rule-nav">
+			<ul>
+				<li>活动规则</li>
+				<li>注意事项</li>
+				<li>FAQ</li>
+			</ul>
+		</div>
+		<div class="rule-cont" style="display:none;">
+			<img src="/act/xtl/goddess/20180920/mobile/img/rule-step.png" />
+			<ul>
+				<li class="t2"><span class="comm">1</span> 认证时间：即日起至2月25日</li>
+				<li class="t2"><span class="comm">2</span> 活动服务器：美女专属服（2月12日开放的服务器）</li>
+				<li class="t2">
+					<span class="comm">3</span> 认证
+					<p class="t1">A 报名：女性玩家在活动期间，均可点击 “我要认证”按钮进行报名，成功填写资料完成报名。</p>
+					<p class="t2">注意：只有上传美拍视频才有资格进入高级认证区，领取高级认证礼包。</p>
+					<p class="t2">友情提示：视频内语音，文案，手持纸张等展现天龙元素将更容易通过审核哦！</p>
+					<p class="t1">B 审核时间：本次活动将由官方人员进行统一审核，审核时间在信息提交后<b class="sred">48小时内</b>。</p>
+					<p class="t1">C 审核标准：照片、视频所填信息一致，真实有效，照片面部五官清晰。
+					若审核信息不符合要求，无法通过审核，此时，美女玩家可进行修改上传信息，重新提
+					交审核，每个账号仅可修改<b class="sred">二次</b>。
+					<p class="t2">注意：最后一次修改时，申请内容为最终信息，无法升级，所以若想报名高级认证，请慎重填写完整资料。</p></p>
+				</li>
+			</ul>
+		</div>
+		<div class="rule-cont" style="display:none;">
+			<ul>
+				<li class="t2"><span class="comm">1</span> 每个账号仅能报名1次，个人信息、个人照片、美拍视频等所有信息，上传则无法更改，照片与视频所展示人物需一致，为避免审核不通过，请谨慎填写；</li>
+				<li class="t2"><span class="comm">2</span> 即日起至2月25日活动期间，玩家可补充上传美拍视频，参加高级认证；</li>
+				<li class="t2"><span class="comm">3</span> 活动期间（包括领奖阶段），玩家若删除美拍视频，则视为自行放弃奖励；</li>
+				<li class="t2"><span class="comm">4</span> 报名时填写的资料必须真实有效，非有效信息同样视为无效；</li>
+				<li class="t2"><span class="comm">5</span> 所有参加本次活动的玩家，若发现冒名顶替认证的，一经核实，取消活动资格；</li>
+				<li class="t2"><span class="comm">6</span> 玩家通过认证后，奖励将会在新服开启时发放至新区，登陆新区创建女性角色，即可通过大理龚彩云进行领取（<b class="sred">注意：男性角色无法开启礼包</b>）</li>
+				<li class="t2"><span class="comm">7</span> 网页显示认证顺序为随机，可手动选择序号排列或输入编号搜索；</li>
+				<li class="t2"><span class="comm">8</span> 报名上传照片需本人真实照片，一切因照片引起的纠纷由报名者自行承担；</li>
+				<li class="t2"><span class="comm">9</span> 报名即视为同意畅游《新天龙八部》项目上传、使用该照片进行宣传，推广；</li>
+				<li class="t2"><span class="comm">10</span> 选手在报名前，需仔细阅读本《注意事项》；</li>
+				<li class="t2"><span class="comm">11</span> 《新天龙八部》官方运营团队保留对本次活动的最终解释权。</li>
+			</ul>
+		</div>
+		<div class="rule-cont" style="display:none;">
+			<ul>
+				<li class="t2">
+					<span class="comm">1</span>
+					<p>F：不上传美拍视频可以报名吗？</p>
+					<p>Q：可以的。但是只能进行初级认证，想要永久真女神称号，还是要上传美拍视频哦~</p>
+				</li>
+				<li class="t2">
+					<span class="comm">2</span>
+					<p>F：我已经报名了，可以补传美拍视频吗？</p>
+					<p>Q：可以的。如果你在报名时没有上传视频，可以有一次机会补传美拍视频。</p>
+				</li>
+				<li class="t2">
+					<span class="comm">3</span>
+					<p>F：我已经上传美拍视频了，可以修改吗？</p>
+					<p>Q：不可以。考虑到服务器负荷，美拍视频一经上传无法修改。</p>
+				</li>
+				<li class="t2">
+					<span class="comm">4</span>
+					<p>F：照片和个人信息填错了，可以修改吗？</p>
+					<p>Q：不可以，请谨慎填写。</p>
+				</li>
+				<li class="t2">
+					<span class="comm">5</span>
+					<p>F：我填写的手机号和QQ号会不会暴露？</p>
+					<p>Q：不会的，我们会严格保密，一切个人信息仅用于发奖时联系玩家</p>
+				</li>
+				<li class="t2">
+					<span class="comm">6</span>
+					<p>F：审核未通过可以二次报名吗？</p>
+					<p>Q：审核未通过可在活动期间进行修改，每个账号最多可修改二次，请慎重选择最美的照片、视频，认真填写个人信息~</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="pop pop1" id="loginPop">
+	<p>亲爱的玩家请先登录</p>
+	<a href="javascript:loginShow();" class="pop-login comm">登 录</a>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 初级+高级报名后 S -->
+<div class="pop pop2" id="review1">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：无</li>
+		<li>认证级别：无</li>
+		<li>认证状态：<span class="co1">审核中</span> <span class="f14">(官方将在48小时内进行审核，审核通过即可进入高级评选赛区。)</span></li>
+	</ul>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 初级+高级报名后 E -->
+<!-- 高级申请成功 S -->
+<div class="pop pop3" id="review2">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：<span class="mark-all">0</span></li>
+		<li>认证级别：高级</li>
+		<li>认证状态：<span class="co1">审核成功</span></li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>已获得<span class="co1">【初级认证礼包】</span></li>
+		<li>包括：称号、时装、buff</li>
+	</ul>
+	<ul class="pop-rule">
+		<li>已获得<span class="co1">【高级认证礼包】</span></li>
+		<li>包括：称号、时装、buff</li>
+	</ul>
+	<ul class="pop-rule">
+		<li>可登录2月12日开放的最新服务器，前往大理龚彩云处领取。初级认证礼包和高级认证礼包可同时使用。</li>
+	</ul>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 高级申请成功 E -->
+<!-- 高级审核失败 S -->
+<div class="pop pop3" id="review3">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：<span class="mark-all">0</span></li>
+		<li>认证级别：初级</li>
+		<li>认证状态：<span class="co1">高级审核失败</span><a href="javascript:showDia('updateRegUserVideo');" class="pop-modify comm">修改信息</a></li>
+		<li class="f14">请检查：视频中人与照片是否一致参选视频中是否涉及私人信息或存在违反国家规定信息</li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>已获得<span class="co1">【初级认证礼包】</span></li>
+		<li>包括：称号、时装、buff</li>
+		<li>可登录2月12日开放的最新服务器，前往大理龚彩云处领取。</li>
+	</ul>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 高级审核失败 E -->
+<!-- 初级审核失败 S -->
+<div class="pop pop3" id="review4">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：<span class="mark-all">0</span></li>
+		<li>认证级别：无</li>
+		<li>认证状态：<span class="co1">审核失败</span><a href="javascript:showDia('popInfo');" class="pop-modify comm">修改信息</a></li>
+		<li class="f14">请检查：1、文字内容中存在非法字符；<br>2、参选照片为身份证、同一张照片、或非本人照片、或存在反动、色情等虚假信息；</li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>暂无</li>
+	</ul>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 初级审核失败 E -->
+<!-- 高级报名后 S -->
+<div class="pop pop3" id="review5">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：<span class="mark-all">0</span></li>
+		<li>认证级别：初级</li>
+		<li>认证状态：<span class="co1">审核中</span> <span class="f14">(官方将在48小时内进行审核，审核通过即可进入高级评选赛区。)</span></li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>已获得<span class="co1">【初级认证礼包】</span></li>
+		<li>包括：称号、时装、buff</li>
+		<li>可登录2月12日开放的最新服务器，前往大理龚彩云处领取。</li>
+	</ul>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 高级报名后 E -->
+<!-- 申请成功 S -->
+<div class="pop pop3" id="review6">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：<span class="mark-all">0</span></li>
+		<li>认证级别：初级</li>
+		<li>认证状态：<span class="co1">审核成功</span></li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>已获得<span class="co1">【初级认证礼包】</span></li>
+		<li>包括：称号、时装、buff</li>
+		<li>可登录2月12日开放的最新服务器，前往大理龚彩云处领取。</li>
+	</ul>
+	<a href="javascript:showDia('updateRegUserVideo');" class="pop-upgrade comm hv" title="申请高级认证">申请高级认证</a>
+	<p class="upgrade-desc">您还可继续申请高级认证，获得永久称号及更稀有时装奖励</p>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 申请成功 E -->
+<!-- 初级报名后 S -->
+<div class="pop pop3" id="review7">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：无</li>
+		<li>认证级别：无</li>
+		<li>认证状态：<span class="co1">审核中</span><span class="f14"> (官方将在48小时内进行审核)</span></li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>暂无</li>
+	</ul>
+	<a href="javascript:showDia('updateRegUserVideo');" class="pop-upgrade comm hv" title="申请高级认证">申请高级认证</a>
+	<p class="upgrade-desc">可以继续申请高级认证！<br>更有永久女神称号等你来拿</p>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 初级报名后 E -->
+<!-- 修改次数超过 S -->
+<div class="pop pop3" id="review8">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：<span class="mark-all">0</span></li>
+		<li>认证级别：初级</li>
+		<li>认证状态：<span class="co1">高级审核失败</span> <span class="f14">(已无修改次数)</span></li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>已获得<span class="co1">【初级认证礼包】</span></li>
+		<li>包括：称号、时装、buff</li>
+		<li>可登录2月12日开放的最新服务器，前往大理龚彩云处领取。</li>
+	</ul>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 修改次数超过 E -->
+<!-- 登录尚未报名 S -->
+<div class="pop pop3" id="loginApply">
+	<ul class="pop-rule">
+		<li class="f20 co1">报名状态</li>
+		<li>选手编号：尚未参加</li>
+		<li>认证级别：尚未参加</li>
+		<li>认证状态：尚未参加</li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">获得奖励</li>
+		<li>暂无</li>
+	</ul>
+	<a href="javascript:showDia('popInfo');" class="pop-attest comm hv" title="我要认证">我要认证</a>
+	<p class="upgrade-desc">点击我要认证，填写信息，通过审核后，<br>即可在新区领取专属女神认证称号、稀有时装及女神特效buff</p>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 登录尚未报名 E -->
+<!-- 高级认证报名成功 S -->
+<div class="pop pop4" id="seOver1">
+	<div class="pop-apply">
+		<strong class="pa1 comm">高级认证报名成功</strong>
+		<ul class="pop-rule">
+			<li>您的信息已经提交成功</li>
+			<li>官方工作人员将会在48小时内进行审核信息、照片和视频，请耐心等待。</li>
+		</ul>
+		<p>可以点击<span class="co1">【我要认证】</span>旁的“个人中心”查看审核结果。</>
+	</div>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 高级认证报名成功 E -->
+<!-- 初级认证报名成功 S -->
+<div class="pop pop4" id="seOver2">
+	<div class="pop-apply">
+		<strong class="pa2 comm">初级认证报名成功</strong>
+		<ul class="pop-rule">
+			<li>您的信息已经提交成功</li>
+			<li>官方工作人员将会在48小时内进行审核信息、照片和视频，请耐心等待。</li>
+		</ul>
+		<p>可以点击<span class="co1">【我要认证】</span>旁的“个人中心”查看审核结果。</p>
+	</div>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 初级认证报名成功 E -->
+<!-- 视频报名窗口 S -->
+<div class="pop pop5" id="updateRegUserVideo">
+	<ul class="pop-rule">
+		<li class="f20 co1">参选视频上传</li>
+		<li>视频连接：<input class="pop-video-link" id="UserVideo" /></li>
+	</ul>
+	<ul class="pop-rule">
+		<li class="f20 co1">视频上传须知：</li>
+		<li class="ind">1、请使用美拍APP拍摄5秒左右短视频，将链接填入信息框中（请不要使用其他拍摄短视频软件哦）</li>
+		<li class="ind">2、上传视频中人物需与照片中人物一致，均为玩家本人真实信息，若发现冒名顶替认证，一经核实，将会取消认证资格，收回一切奖励。若发生视频引起纠纷，将由报名者自行承担</li>
+		<li class="ind">3、报名期间可上传视频信息，一旦活动结束，将无法上传视频。</li>
+		<li class="ind">4、视频语音或手持纸张物品，与天龙内容相关，将更容易通过审核。</li>
+	</ul>
+	<a href="javascript:updateRegUserVideo();" class="submit comm hv" title="提交">提交</a>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 视频报名窗口 E -->
+<!-- 报名窗口 S -->
+<div class="pop pop6" id="popInfo">
+	<div class="pop-info">
+		<div class="pop-scroll">
+			<ul class="pop-info-list">
+				<li>
+					<strong>角色名：</strong>
+					<input type="" name="" class="pi1" maxlength="6" id="nickname">
+					<span class="pt1">建议填写即将入驻新区的角色名，方便更多玩家找到美丽的你</span>
+				</li>
+				<li>
+					<strong>城市：</strong>
+					<select name="province" id="province" class='province pi2' msgEmpty="请选择省份">
+						<option value="">选择省份</option>
+					</select>
+					<select name="city" id="city" class='city pi2' msgEmpty="请选择城市">
+						<option value="">选择城市</option>
+					</select>
+					<span>星座：</span>
+					<select class="pi4" id="yy" msgEmpty="选星座">
+						<option value="">选星座</option>
+						<option>白羊座</option>
+						<option>金牛座</option>
+						<option>双子座</option>
+						<option>巨蟹座</option>
+						<option>狮子座</option>
+						<option>处女座</option>
+						<option>天秤座</option>
+						<option>天蝎座</option>
+						<option>射手座</option>
+						<option>摩羯座</option>
+						<option>水瓶座</option>
+						<option>双鱼座</option>
+					</select>
+				</li>
+				<li>
+					<strong>年龄：</strong>
+					<input type="" name="" class="pi3" id="age" maxlength="3" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')">
+					<span>身高：</span>
+					<input type="" name="" class="pi3" id="height" maxlength="3" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')" placeholder="cm">
+					<span>体重：</span>
+					<input type="" name="" class="pi3" id="weight" maxlength="3" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')" placeholder="kg">
+				</li>
+				<li>
+					<strong>爱好：</strong>
+					<input type="" name="" class="pi5" maxlength="20" id="hobby">
+				</li>
+				<li>
+					<strong>QQ号：</strong>
+					<input type="" name="" class="pi6" id="qq" maxlength="11" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')">
+					<span class="pt2">（此两项将不会进行页面展示，仅作为发奖确认信息时的联系方式，请放心填写）</span>
+				</li>
+				<li>
+					<strong>手机号：</strong>
+					<input type="" name="" class="pi6" id="phone" maxlength="11" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')">
+				</li>
+			</ul>
+			<div class="pop-info-img">
+				<strong>参选照片上传</strong>
+				<span>参加初级女神认证</span>
+				<ul id="imageList">
+					<li>
+						<a href="javascript:;">+</a>
+						<input type="file" name="file">
+						<img />
+					</li>
+					<li>
+						<a href="javascript:;">+</a>
+						<input type="file" name="file">
+						<img />
+					</li>
+					<li>
+						<a href="javascript:;">+</a>
+						<input type="file" name="file">
+						<img />
+					</li>
+					<li>
+						<a href="javascript:;">+</a>
+						<input type="file" name="file">
+						<img />
+					</li>
+					<li>
+						<a href="javascript:;">+</a>
+						<input type="file" name="file">
+						<img />
+					</li>
+				</ul>
+				<p>（至少上传2张，最多上传5张）</p>
+			</div>
+			<ul class="pop-info-rule">
+				<li>参选照片上传须知</li>
+				<li>1、支持jpg、png格式的图片文件，且文件小于5MB；</li>
+				<li>2、请勿上传身份证照片；</li>
+				<li>3、不得上传同一张照片，否则予以否决</li>
+				<li>4、官方会人工审核您提交的参选照片，请上传您的照片（生活照、艺术照），若上传具有反动、色情等虚假信息，审核将无法通过。</li>
+			</ul>
+			<div class="pop-info-btn">
+				<a href="javascript:createRegUser();" class="submit comm hv" title="提交">提交</a>
+				<a href="javascript:carryUser()" class="continue comm hv" title="继续填写">继续填写</a>
+				<p>可先参加初级女神认证，<br>稍后补填信息，参加高级女神认证。</p>
+			</div>
+		</div>
+	</div>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 报名窗口 E -->
+
+
+<!-- 前台个人页 S -->
+<div class="pop pop7" id="frontPop">
+	<div class="pop-person">
+		<div class="left">
+			<p class="p-tit">图片认证</p>
+			<div class="personImg-box">
+				<!--
+				<div class="slide">
+					<div class="photo-img slide-pic" id="slidePic">
+						<div class="slide-item"><img src="//static1.changyou.com/tl/goddess2018/2018-04-26/09407e08-226e-4a0b-a894-2866c786e2f9.jpeg" /></div>
+						<div class="slide-item"><img src="//static1.changyou.com/tl/goddess2018/2018-04-26/09407e08-226e-4a0b-a894-2866c786e2f9.jpeg" /></div>
+						<div class="slide-item"><img src="//static1.changyou.com/tl/goddess2018/2018-04-26/09407e08-226e-4a0b-a894-2866c786e2f9.jpeg" /></div>
+						<div class="slide-item"><img src="//static1.changyou.com/tl/goddess2018/2018-04-26/09407e08-226e-4a0b-a894-2866c786e2f9.jpeg" /></div>
+						<div class="slide-item"><img src="//static1.changyou.com/tl/goddess2018/2018-04-26/09407e08-226e-4a0b-a894-2866c786e2f9.jpeg" /></div>
+					</div>
+				</div>
+				<div class="photo-nav slide-nav"></div>
+			-->
+
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide"><img data-src="uploads/01.jpg"></div>
+						<div class="swiper-slide"><img data-src="uploads/01.jpg"></div>
+						<div class="swiper-slide"><img data-src="uploads/01.jpg"></div>
+						<div class="swiper-slide"><img data-src="uploads/01.jpg"></div>
+					</div>
+					<div class="swiper-pagination"></div>
+				</div>
+
+			</div>
+		</div>
+		<div class="right">
+			<p class="p-tit" id="iNickName">个人昵称</p>
+			<ul class="p-info c">
+				<li style="width:80%;">城市：<span id="iProvince">xxxxx</span></li>
+				<li>年龄：<span id="iAge">xxxxx</span></li>
+				<li>星座：<span id="iYy">xxxxx</span></li>
+				<li>身高：<span id="iHeight">xxxxx</span></li>
+				<li>体重：<span id="iWeight">xxxxx</span></li>
+				<li style="width:80%;">爱好：<span id="iHobby">xxxxx</span></li>
+			</ul>
+			<p class="p-tit">视频认证</p>
+			<a href="javascript:;" class="renz" id="renzVideo" target="_blank">当前玩家未参加高级认证</a>
+		</div>
+	</div>
+	<!-- 关闭按钮 -->
+	<a href="javascript:showDialog.hide();" class="pop-close comm" title="点击关闭">×</a>
+</div>
+<!-- 前台个人页 E -->
+<!-- 剪切弹窗 S -->
+<div class="pop-container" id="cropperPop" style="display:none;">
+	<div class="img-container">
+	  <img id="imageCropper" src="/act/xtl/goddess/20180920/pc/img/cont1.jpg" alt="Picture">
+	</div>
+	<div class="cropper-btn">
+		<a href="javascript:cropperDate();" class="cb1 comm">确定上传</a>
+		<a href="javascript:cropperHide();" class="cb2 comm">取消</a>
+	</div>
+</div>
+<!-- 剪切弹窗 E -->
+
+<script src="/act/all/js/jquery-1.8.3.min.js"></script>
+<script src="/js/join-activity-1.0.0.js"></script>
+<script src="/act/xtl/goddess/20180920/mobile/js/quansu.js"></script>
+<script src="/act/xtl/goddess/20180920/mobile/js/showDialog.min.js"></script>
+<script src="/act/xtl/goddess/20180920/mobile/js/swiper.min.js"></script>
+<script src="/act/xtl/goddess/20180920/mobile/js/select.js"></script>
+<script src="/act/xtl/goddess/20180920/mobile/js/cropper.js"></script>
+<script src="/act/xtl/goddess/20180920/mobile/js/index.js"></script>
+<script>
+
+    //pop
+    function showDia(e,fun){
+	    showDialog.show({
+	        id:e, //需要弹出的id，如果是弹出页面上的div，则该选项为必选
+	        bgcolor:"#000000",//弹出“遮罩”的颜色，格式为"#FF6600"，可选，默认为"#fff"
+	        opacity:50 //弹出“遮罩”的透明度，格式为｛10-100｝，可选
+	    });
+	    fun && fun();
+    }
+</script>
+<!--#include virtual="/all/dma/dma_activity.html"-->
+</body>
+</html>

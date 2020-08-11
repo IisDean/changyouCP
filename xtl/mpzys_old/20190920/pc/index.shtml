@@ -1,0 +1,631 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="keywords" content="天龙,新天龙,天龙八部,新天龙八部,天龙八部3,tl,tlbb,tl3,xtl,网络游戏,网游,武侠,浪漫武侠,武侠游戏,金庸,MMO,天龙八部OL,萧峰,段誉,虚竹,王语嫣,天龙八部钟汉良版,天龙八部黄日华版,8周年,八周年,周年庆,全民代言,纵情四海," />
+    <meta name="description" content="《新天龙八部》全新版本纵情四海即将揭晓，亲朋好友齐聚江湖，多重夏季活动持续更新，暑期福利天天放送，热力引爆整个夏天！入驻新服，秒享多项特权；社交体系全面进化，让天龙成为你的生活方式，情燃七月，四海天下！" />
+    <meta name="author" content="Design:CP; Web Layout:CP;" />
+    <title>门派指引师 -《新天龙八部》官方网站</title>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="icon"/>
+    <link type="image/x-icon" href="http://xtl.changyou.com/favicon.ico" rel="shortcut icon" />
+    <link href="/act/all/css/reset.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/mpzys/20190920/pc/css/swiper.min.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/mpzys/20190920/pc/css/cropper.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/mpzys/20190920/pc/css/global.css" />
+    <link type="text/css" rel="stylesheet" href="/act/xtl/mpzys/20190920/pc/css/index.css" />
+</head>
+<body>
+<h1 class="hide">门派指引师</h1>
+<div class="con con-1 part">
+    <div class="wrap">
+        <div class="head-top clearfix">
+            <div class="float-left full-img logo-icon">
+                <img src="/act/xtl/mpzys/20190920/pc/img/logo.png" alt="logo">
+                <a href="http://tl.changyou.com/index.shtml" target="_blank" class="absolute logo-tl t">天龙logo</a>
+                <a href="http://cxg.changyou.com/" target="_blank" class="absolute logo-cxg t">畅秀阁logo</a>
+                <a href="https://www.huya.com/" target="_blank" class="absolute logo-hy t">虎牙logo</a>
+            </div>
+            <!-- 登录 注册 -->
+            <div class="float-right login-wrap">
+                <p class="login-text">
+                    <span>少侠您好，请</span>
+                    <a href="javascript: ;" title="登录">【登录】</a>
+                </p>
+                <p class="login-text" style="display: none;">
+                    <span>欢迎您，亲爱的少侠，</span>
+                    <a href="javascript: ;" title="更改账号">【更改账号】</a>
+                    <a href="javascript: ;" title="注销">【注销】</a>
+                </p>
+            </div>
+        </div>
+        <div class="bg animate title-icon">
+            <span class="absolute text-center time-label">10月19日—11月15日</span>
+        </div>
+        <div class="bg inset-wrap text-center move-up delay-dot3">
+            <p><span>全新门派</span>——桃花岛强势来袭，主播为你全方位解析</p>
+            <p><span>极限打造</span>、<span>技能剖析</span>、<span>门派较量</span>等精彩内容一网打尽</p>
+        </div>
+    </div>
+</div>
+<div class="con con-2">
+    <div class="wrap">
+        <div class="part">
+            <h2 class="icons title-icon1 move-up t">第一阶段</h2>
+            <p class="text-center title-sub-text move-up delay-dot1">活动时间：10月19日10:00——10月31日22:00</p>
+            <div class="description-wrap move-up delay-dot2">
+                <p class="description-text">活动规则：</p>
+                <ul>
+                    <li><p class="description-text"><span class="red-text">19日—31日</span>，<span class="red-text">20名</span>主播进入1V1比赛服，初步体验新门派；</p></li>
+                    <li><p class="description-text"><span class="red-text">21日—23日</span>，<span class="red-text">6名</span>特邀主播嘉宾前往畅游深度体验新门派，全方位直播；</p></li>
+                    <li><p class="description-text">玩家可通过观看相关直播了解新门派特色、打造、技能相关内容，并可在页面下方<span class="red-text">【主播阵营榜】</span>中选择自己喜欢的主播加入其阵营，携手闯荡江湖；</p></li>
+                    <li><p class="description-text">玩家加入某一主播阵营后，可获得<span class="red-text">【加油有好礼礼包】</span>（大理龚彩云172.122处领取），页面下方点击领取。</p></li>
+                </ul>
+            </div>
+            <!-- 直播 -->
+            <div class="live-container clearfix">
+                <ul class="live-list float-left move-right delay-dot3">
+                    <li class="live-item mb-17">
+                        <a href="javascript: playLive(0);" class="full-img">
+                            <img src="/act/xtl/mpzys/20190920/pc/img/live_cover.jpg" alt="直播封面" />
+                            <i class="absolute icons live-btn t" title="播放">播放</i>
+                        </a>
+                    </li>
+                    <li class="live-item mb-17">
+                        <a href="javascript: playLive(1);" class="full-img">
+                            <img src="/act/xtl/mpzys/20190920/pc/img/live_cover.jpg" alt="直播封面" />
+                            <i class="absolute icons live-btn t" title="播放">播放</i>
+                        </a>
+                    </li>
+                    <li class="live-item">
+                        <a href="javascript: playLive(2);" class="full-img">
+                            <img src="/act/xtl/mpzys/20190920/pc/img/live_cover.jpg" alt="直播封面" />
+                            <i class="absolute icons live-btn t" title="播放">播放</i>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="live-list float-right move-left delay-dot3">
+                    <li class="live-item mb-17">
+                        <a href="javascript: playLive(3);" class="full-img">
+                            <img src="/act/xtl/mpzys/20190920/pc/img/live_cover.jpg" alt="直播封面" />
+                            <i class="absolute icons live-btn t" title="播放">播放</i>
+                        </a>
+                    </li>
+                    <li class="live-item mb-17">
+                        <a href="javascript: playLive(4);" class="full-img">
+                            <img src="/act/xtl/mpzys/20190920/pc/img/live_cover.jpg" alt="直播封面" />
+                            <i class="absolute icons live-btn t" title="播放">播放</i>
+                        </a>
+                    </li>
+                    <li class="live-item">
+                        <a href="javascript: playLive(5);" class="full-img">
+                            <img src="/act/xtl/mpzys/20190920/pc/img/live_cover.jpg" alt="直播封面" />
+                            <i class="absolute icons live-btn t" title="播放">播放</i>
+                        </a>
+                    </li>
+                </ul>
+                <div class="bg live-iframe move-up delay-dot2" id="live-iframe">
+                    <!-- 直播窗口 -->
+                    <iframe src="" frameborder="0" width="762px" height="473px"></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="part">
+            <!-- 玩家奖励 -->
+            <h2 class="icons title-icon2 move-up delay-dot1 t">玩家奖励</h2>
+            <ul class="prize-list text-center">
+                <li class="prize-item move-up delay-dot2 mr">
+                    <div class="bg full-img prize-wrap">
+                        <img src="/act/xtl/mpzys/20190920/pc/img/prize_1.png" alt="奖品">
+                    </div>
+                    <p class="prize-name-text text-center">【加油有好礼】礼包</p>
+                    <!-- 未达到领取条件  -->
+                    <a href="javascript: ;" class="icons prize-btn get-prize-btn t" style="display: none;" title="立即领取">立即领取</a>
+                    <!-- 达到领取条件 -->
+                    <a href="javascript: ;" class="icons prize-btn get-prize-btn2 btn-hover t" style="display: none;" title="立即领取">立即领取</a>
+                    <!-- 已经领取 -->
+                    <a href="javascript: ;" class="icons prize-btn prize-btn-none t" title="已领取">已领取</a>
+                    <div class="absolute bg prize-xf-wrap">
+                        <ul class="prize-xf-list clearfix">
+                            <li class="prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_1.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">云梦隐都（7天）</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_2.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">小玄灵丹×2</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_3.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">幻魂丹×2</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_4.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">小喇叭×5</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_5.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">缀梦灵石×2</div>
+                            </li>
+                        </ul>
+                        <div class="getprize-rule-wrap">
+                            <p class="getprize-rule-text">
+                                <span class="bold">领取条件：</span>
+                                选择自己喜欢的主播，加入其阵营即可获得
+                            </p>
+                            <p class="getprize-rule-text">
+                                <span class="bold">礼包内容：</span>
+                                玩家使用礼包必得时装：云梦隐都（7天），并有机会获得小玄灵丹*2、幻魂丹*2、小喇叭*5、缀梦灵石*2各种好礼。
+                            </p>
+                        </div>
+                    </div>
+                </li>
+                <li class="prize-item move-up delay-dot3">
+                    <div class="bg full-img prize-wrap">
+                        <img src="/act/xtl/mpzys/20190920/pc/img/prize_2.png" alt="奖品">
+                    </div>
+                    <p class="prize-name-text text-center">【超凡】礼包</p>
+                    <a href="javascript: ;" class="icons prize-btn get-prize-btn2 btn-hover t" title="立即领取">立即领取</a>
+                    <div class="absolute bg prize-xf-wrap">
+                        <ul class="prize-xf-list clearfix">
+                            <li class="prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_6.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">雪羽（7天）</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_7.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">玄灵丹×2</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_8.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">虹耀石×5</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_4.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">小喇叭×10</div>
+                            </li>
+                            <li class="full-img prize-xf-item float-left">
+                                <div class="prize-icon">
+                                    <img src="/act/xtl/mpzys/20190920/pc/img/prize_5.jpg" alt="物品">
+                                </div>
+                                <div class="absolute text-center text-hidden prize-xf-name">缀梦灵石×5</div>
+                            </li>
+                        </ul>
+                        <div class="getprize-rule-wrap">
+                            <p class="getprize-rule-text">
+                                <span class="bold">领取条件：</span>
+                                活动结束后，总积分第一主播阵营下的玩家均可获得
+                            </p>
+                            <p class="getprize-rule-text">
+                                <span class="bold">礼包内容：</span>
+                                玩家使用礼包必得坐骑：雪羽（7天），并有机会获得玄灵丹*2、虹耀石*5、小喇叭*10、缀梦灵石*5各种好礼。
+                            </p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="part">
+            <!-- 第二阶段 -->
+            <h2 class="icons title-icon3 move-up t">第二阶段</h2>
+            <p class="text-center title-sub-text move-up delay-dot1">活动时间：11月1日10:00——11月15日22:00</p>
+            <div class="description-wrap move-up delay-dot2">
+                <p class="description-text">活动规则：</p>
+                <ul>
+                    <li><p class="description-text"><span class="red-text">20名</span>名主播直播讲解新门派打造相关内容，解答玩家体验新门派过程中的各种问题；</p></li>
+                    <li><p class="description-text">主播阵营榜将根据阵营总积分进行排名，阵营总积分来源：每个阵营的玩家在游戏内<span class="red-text">创建新门派</span>的角色等级和装备评分；</p></li>
+                    <li><p class="description-text">玩家可通过观看相关直播了解新门派特色、打造、技能相关内容，并可在页面下方<span class="red-text">【主播阵营榜】</span>中选择自己喜欢的主播加入其阵营，携手闯荡江湖；</p></li>
+                    <li><p class="description-text"><span class="red-text">20名</span>名主播引导师将根据所在阵营的总积分获得对应的奖励。<span class="red-text">【主播阵营榜】</span>中总积分第一主播阵营下的所有玩家均赢得<span class="red-text">【超凡礼包】</span>（大理龚彩云172.122处领取），页面上方点击领取。</p></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="con con-3">
+    <div class="wrap">
+        <div class="part">
+            <h2 class="icons title-icon4 move-up delay-dot1 t">主播阵营榜</h2>
+            <!-- 第2阶段 显示排名列表 -->
+            <div class="bg ranking-container move-up delay-dot2" style="display: none;">
+                <p class="absolute rangking-tips-text">该排行榜以总积分为标准每日12:00进行更新</p>
+                <ul class="table-title-wrap clearfix">
+                    <li class="rk-1 table-title float-left">头像</li>
+                    <li class="rk-2 table-title float-left">头像</li>
+                    <li class="rk-3 table-title float-left">主播</li>
+                    <li class="rk-4 table-title float-left">阵营总积分</li>
+                    <li class="rk-5 table-title float-left">阵营粉丝数量</li>
+                </ul>
+                <!-- 主播列表 -->
+                <ul class="user-list user-list2">
+                    <!-- 当前不能加入阵营 -->
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">1</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-add-filter" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <!-- 当前可以加入阵营 -->
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">2</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">畅秀阁</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">3</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">4</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">畅秀阁</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">5</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">畅秀阁</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">6</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">7</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">8</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">9</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="rk-1 float-left">
+                            <div class="icons text-center rk-num">10</div>
+                        </div>
+                        <div class="rk-2 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="rk-3 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="rk-4 text-center float-left">
+                            <p class="fans-num-text" style="margin-right: 0;">1234567</p>
+                        </div>
+                        <div class="rk-5 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- 第2阶段 显示报名列表 -->
+            <div class="bg ranking-container move-up delay-dot2" style="display: no ne;">
+                <ul class="table-title-wrap clearfix">
+                    <li class="tb-1 table-title float-left">头像</li>
+                    <li class="tb-2 table-title float-left">主播</li>
+                    <li class="tb-3 table-title float-left">阵营粉丝数量</li>
+                </ul>
+                <!-- 主播列表 -->
+                <ul class="user-list">
+                    <li class="clearfix move-up">
+                        <div class="tb-1 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="tb-2 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="tb-3 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-add-filter" title="加入阵营"></a>
+                        </div>
+                    </li>
+                    <li class="clearfix move-up">
+                        <div class="tb-1 float-left">
+                            <a href="javascript: ;" class="user-head" style="background-image: url('/act/xtl/mpzys/20190920/pc/img/user_head.png');"></a>
+                        </div>
+                        <div class="tb-2 float-left">
+                            <p class="user-name-text">主播昵称昵称</p>
+                            <span class="text-center user-label">虎牙</span>
+                        </div>
+                        <div class="tb-3 float-left">
+                            <p class="fans-num-text">1234567</p>
+                            <a href="javascript: ;" class="icons btn-add btn-hover" title="加入阵营"></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="part">
+            <!-- 精彩花絮 -->
+            <h2 class="icons title-icon5 move-up  t">精彩花絮</h2>
+            <div class="swiper-box video-list move-up delay-dot1">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-vid="81265888"><!-- 此处填写视频id -->
+                            <div class="full-img video-wrap">
+                                <img src="/act/xtl/mpzys/20190920/pc/img/video_cover.jpg" alt="视频封面" />
+                                <a href="javascript: ;" class="absolute icons live-btn t" title="播放">播放</a>
+                            </div>
+                            <p class="video-name-text">我是文案我是文案我是文案我是文案我是文案我是文案 我是文案我是文案我是文案我是文案我是文案</p>
+                        </div>
+                        <div class="swiper-slide" data-vid="81265888"><!-- 此处填写视频id -->
+                            <div class="full-img video-wrap">
+                                <img src="/act/xtl/mpzys/20190920/pc/img/video_cover.jpg" alt="视频封面" />
+                                <a href="javascript: ;" class="absolute icons live-btn t" title="播放">播放</a>
+                            </div>
+                            <p class="video-name-text">我是文案我是文案我是文案我是文案我是文案我是文案 我是文案我是文案我是文案我是文案我是文案</p>
+                        </div>
+                        <div class="swiper-slide" data-vid="81265888"><!-- 此处填写视频id -->
+                            <div class="full-img video-wrap">
+                                <img src="/act/xtl/mpzys/20190920/pc/img/video_cover.jpg" alt="视频封面" />
+                                <a href="javascript: ;" class="absolute icons live-btn t" title="播放">播放</a>
+                            </div>
+                            <p class="video-name-text">我是文案我是文案我是文案我是文案我是文案我是文案 我是文案我是文案我是文案我是文案我是文案</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="absolute icons prev-btn moves-left t">上一页</div>
+                <div class="absolute icons next-btn moves-right t">下一页</div>
+            </div>
+        </div>
+        <div class="part">
+            <!-- 注意事项 -->
+            <div class="bg rule-list-wrap move-up">
+                <ul class="rule-list">
+                    <li class="rule-item">
+                        <p class="rule-text">
+                            <span class="icons text-center rule-icon">1</span>
+                            每个账号只能支持一名主播，加入一名主播的阵营；
+                        </p>
+                    </li>
+                    <li class="rule-item">
+                        <p class="rule-text">
+                            <span class="icons text-center rule-icon">2</span>
+                            10月19日10:00——11月15日22：00，玩家均可选择加入阵营；
+                        </p>
+                    </li>
+                    <li class="rule-item">
+                        <p class="rule-text">
+                            <span class="icons text-center rule-icon">3</span>
+                            本活动解释权归畅游所有。
+                        </p>
+                    </li>
+                </ul>
+                <i class="absolute bg cloud-icon"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 弹窗 -->
+<div class="pop bg pop1" id="pop1">
+    <div class="pop-wrap">
+        <p class="text-center pop-description-text">
+            恭喜玩家获得<span class="label-icon">“加油有好礼”</span>，礼包<br/>
+            快和阵营里的小伙伴一起体验新门派吧！
+        </p>
+        <a href="javascript: ;" class="icons pop-close J-close-btn t" title="点击关闭">关闭</a>
+    </div>
+    <!-- 关闭按钮 -->
+</div>
+
+<div class="pop bg pop2" id="pop2">
+    <div class="pop-wrap">
+        <p class="text-center pop-description-text">
+            请少侠选择加入自己喜欢的主播阵营，再来领取哦！
+        </p>
+        <a href="javascript: ;" class="icons pop-close J-close-btn t" title="点击关闭">关闭</a>
+    </div>
+    <!-- 关闭按钮 -->
+</div>
+
+<div class="pop bg pop3" id="pop3">
+    <div class="pop-wrap">
+        <p class="text-center pop-description-text">
+            欢迎少侠加入本阵营，<br/>
+            点击上方领取礼包，一起体验新门派吧！
+        </p>
+        <a href="javascript: ;" class="icons pop-close J-close-btn t" title="点击关闭">关闭</a>
+    </div>
+    <!-- 关闭按钮 -->
+</div>
+
+<div class="pop bg pop4" id="pop4">
+    <div class="pop-wrap">
+        <p class="text-center pop-description-text">
+            感谢您的支持，<br/>
+            您已在阵营，不可重复加入！
+        </p>
+        <a href="javascript: ;" class="icons pop-close J-close-btn t" title="点击关闭">关闭</a>
+    </div>
+    <!-- 关闭按钮 -->
+</div>
+
+<div class="video-pop" id="pop5">
+    <div id="video_player">
+        <span class="text-center video_placeholder">视频正在下载中...</span>
+    </div>
+    <a class="close t J-close-btn" href="javascript: ;" title="关闭">关闭</a>
+    <!-- 关闭按钮 -->
+</div>
+
+<script src="/act/all/js/jquery-1.8.3.min.js"></script>
+<script src="/act/xtl/mpzys/20190920/pc/js/swiper.min.js"></script>
+<script src="/act/xtl/mpzys/20190920/pc/js/showDialog.min.js"></script>
+<script src="http://www.changyou.com/cyouFile/commVideoPlayer/commVideoPlayer.js" ></script>
+<script src="/act/xtl/mpzys/20190920/pc/js/index.js"></script>
+<script>
+
+    //pop
+    function showDia(e,fun){
+        showDialog.show({
+            id:e, //需要弹出的id，如果是弹出页面上的div，则该选项为必选
+            bgcolor:"#000000",//弹出“遮罩”的颜色，格式为"#FF6600"，可选，默认为"#fff"
+            opacity:50 //弹出“遮罩”的透明度，格式为｛10-100｝，可选
+        });
+        $('body').css("overflow", "hidden")
+        fun && fun();
+    }
+
+    (function() {
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)){var a=document.referrer,b={"baidu.com":"seo_baidu","sogou.com":"seo_sogou","sm.cn":"seo_sm","so.com":"seo_360","bing.com":"seo_bing","google.com":"seo_google"},c;for(c in b){if(-1!=a.indexOf(c)){a=b[c];if(window.sessionStorage){sessionStorage.setItem("channel",a)}else{var d=d||0,b="";0!=d&&(b=new Date,b.setTime(b.getTime()+1000*d),b="; expires="+b.toGMTString());document.cookie="channel="+escape(a)+b+"; path=/"}break}}window.location.href="../m/index.shtml"};
+    })();
+</script>
+<!--#include virtual="/all/nav/xtl_dark.html"-->
+<!--#include virtual="/all/dma/dma_activity.html"-->
+</body>
+</html>
